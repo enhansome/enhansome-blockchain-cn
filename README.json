@@ -1,0 +1,881 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "INTRO 介绍"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TUTORIAL 教程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Marbles Project Tutorial: Part One",
+          "description": "官方Chaincode案例教程第一部分 (English)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-28T03:30:12Z",
+            "owner": "IBM-Blockchain-Archive",
+            "repo": "marbles",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marbles Project Tutorial: Part Two",
+          "description": "官方Chaincode案例教程第二部分 (English)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-28T03:30:12Z",
+            "owner": "IBM-Blockchain-Archive",
+            "repo": "marbles",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn Chaincode",
+          "description": "Fabric Chaincode入门 (English)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-08-30T12:23:29Z",
+            "owner": "IBM-Blockchain-Archive",
+            "repo": "learn-chaincode",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabric Basics",
+          "description": "使用Docker Toolbox来搭建Fabric的开发环境 (English)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-10T04:09:40Z",
+            "owner": "angrbrd",
+            "repo": "hyperledger-fabric-basics",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Fabric 联盟链"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeFi Developer Roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T03:54:41Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roadmap of learning blockchain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-09T11:04:40Z",
+            "owner": "ZJUBCA",
+            "repo": "roadmap",
+            "stars": 1388
+          }
+        }
+      ],
+      "title": "Roadmaps 路线图"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PROJECT 项目"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IPFS",
+          "description": "IPFS的GO语言实现 原理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T19:53:17Z",
+            "owner": "ipfs",
+            "repo": "kubo",
+            "stars": 17099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EOS",
+          "description": "EOS链源码",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-07-27T00:17:50Z",
+            "owner": "EOSIO",
+            "repo": "eos",
+            "stars": 11174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quorum",
+          "description": "来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-06-05T02:27:13Z",
+            "owner": "Consensys",
+            "repo": "quorum",
+            "stars": 4765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEO",
+          "description": "NEO链源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T22:06:09Z",
+            "owner": "neo-project",
+            "repo": "neo",
+            "stars": 3535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FISCO-BCOS",
+          "description": "来自金链盟的聚焦金融行业的区块链底层平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T10:45:21Z",
+            "owner": "FISCO-BCOS",
+            "repo": "FISCO-BCOS",
+            "stars": 2595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CITA",
+          "description": "cita联盟链的底层源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-12-10T16:57:30Z",
+            "owner": "citahub",
+            "repo": "cita",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BYTOM",
+          "description": "比原链源码",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-01-02T03:17:32Z",
+            "owner": "BytomDAO",
+            "repo": "bytom",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nervos",
+          "description": "公链 Nervos CKB 的底层源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T21:44:23Z",
+            "owner": "nervosnetwork",
+            "repo": "ckb",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presto-Ethereum",
+          "description": "以太坊增加Presto的SQL访问能力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-03-28T22:17:47Z",
+            "owner": "xiaoyao1991",
+            "repo": "presto-ethereum",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metaverse",
+          "description": "原界链源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-02-25T10:48:25Z",
+            "owner": "mvs-org",
+            "repo": "metaverse",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "比特币0.1",
+          "description": "最原始的比特币代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-07-04T17:24:16Z",
+            "owner": "fkysly",
+            "repo": "bitcoin0.1.0",
+            "stars": 116
+          }
+        }
+      ],
+      "title": "Chain 区块链底层"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zeppelin",
+          "description": "用于编写安全的以太坊合约框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-13T21:02:04Z",
+            "owner": "OpenZeppelin",
+            "repo": "openzeppelin-contracts",
+            "stars": 27214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Truffle",
+          "description": "以太坊Dapp开发脚手架",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-04-22T08:47:19Z",
+            "owner": "ConsenSys-archive",
+            "repo": "truffle",
+            "stars": 13918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web3j",
+          "description": "以太坊官方Web3轻量级java SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T14:08:41Z",
+            "owner": "LFDT-web3j",
+            "repo": "web3j",
+            "stars": 5391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embark",
+          "description": "以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-30T14:41:38Z",
+            "owner": "embarklabs",
+            "repo": "embark",
+            "stars": 3772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity-Coverage",
+          "description": "检测Solidity代码覆盖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-11T19:32:00Z",
+            "owner": "sc-forks",
+            "repo": "solidity-coverage",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Porosity",
+          "description": "反编译以太坊智能合约工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-01-10T04:48:46Z",
+            "owner": "msuiche",
+            "repo": "porosity",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cakeshop",
+          "description": "来自JP Morgan的以太坊可视化管理工具",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-26T23:22:43Z",
+            "owner": "Consensys",
+            "repo": "cakeshop",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caliper",
+          "description": "hyperledger区块链性能测试工具",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-03-16T06:46:59Z",
+            "owner": "hyperledger-archives",
+            "repo": "caliper",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composer",
+          "description": "官方可视化Fabric应用开发框架",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-22T18:40:27Z",
+            "owner": "hyperledger",
+            "repo": "composer",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web3Swift",
+          "description": "一个Web3的swift SDK",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-02-27T08:30:35Z",
+            "owner": "BANKEX",
+            "repo": "web3swift",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "SDK 工具包"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libsnark",
+          "description": "zkSNARKS C++库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-12T22:39:48Z",
+            "owner": "scipr-lab",
+            "repo": "libsnark",
+            "stars": 1929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zokrates",
+          "description": "以太坊使用zkSNARKS工具包(实验用)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-01T16:50:35Z",
+            "owner": "Zokrates",
+            "repo": "ZoKrates",
+            "stars": 1873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oyente",
+          "description": "以太坊智能合约分析工具",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-19T05:35:00Z",
+            "owner": "enzymefinance",
+            "repo": "oyente",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eWASM",
+          "description": "让以太坊支持WebAssembly",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-09-08T17:40:20Z",
+            "owner": "ewasm",
+            "repo": "design",
+            "stars": 1020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maian",
+          "description": "以太坊智能合约漏洞查找工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-22T12:57:33Z",
+            "owner": "ivicanikolicsg",
+            "repo": "MAIAN",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockbench",
+          "description": "区块链性能测试工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-21T12:30:30Z",
+            "owner": "ooibc88",
+            "repo": "blockbench",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSolidM",
+          "description": "可视化智能合约生成工具 源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T18:19:17Z",
+            "owner": "anmavrid",
+            "repo": "smart-contracts",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "Research 最新研究"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DOCUMENT 资料"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mastering Ethereum",
+          "description": "精通以太坊开发Oreilly开源书",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-13T14:04:25Z",
+            "owner": "ethereumbook",
+            "repo": "ethereumbook",
+            "stars": 21516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "以太坊开发者工具列表",
+          "description": "以太坊开发资料收集",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-03-09T17:40:55Z",
+            "owner": "Consensys",
+            "repo": "ethereum-developer-tools-list",
+            "stars": 5408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EthList",
+          "description": "以太坊开发相关学习资料收集 (English)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-04T23:10:43Z",
+            "owner": "Scanate",
+            "repo": "EthList",
+            "stars": 3876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethplorer接口",
+          "description": "Ethplorer接口文档",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-17T11:34:27Z",
+            "owner": "EverexIO",
+            "repo": "Ethplorer",
+            "stars": 849
+          }
+        }
+      ],
+      "title": "Ethereum 以太坊"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "APPLICATION 应用"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mist Wallet",
+          "description": "官方版轻量级钱包",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-20T13:59:24Z",
+            "owner": "ethereum",
+            "repo": "mist",
+            "stars": 7423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web3modal",
+          "description": "Web3 provider solution for all Wallets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:32:27Z",
+            "owner": "reown-com",
+            "repo": "appkit",
+            "stars": 5431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Ether Wallet",
+          "description": "网页版以太坊钱包 源码",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-11-14T17:14:43Z",
+            "owner": "MyEtherWallet",
+            "repo": "etherwallet",
+            "stars": 2327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harmony Wallet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TSQL",
+            "last_commit": "2019-11-15T14:28:04Z",
+            "owner": "ether-camp",
+            "repo": "ethereum-harmony",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parity Wallet",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Wallet 钱包"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ethdelf",
+          "description": "etherdelta交易所 源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-21T16:31:57Z",
+            "owner": "etherdelta",
+            "repo": "smart_contract",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dmarket",
+          "description": "dmarket交易所 源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-14T18:05:16Z",
+            "owner": "dmarket",
+            "repo": "dmarket-smartcontract",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forkdelta",
+          "description": "forkdelta交易所,较活跃 源码",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-18T10:27:13Z",
+            "owner": "forkdelta",
+            "repo": "smart_contract",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0x",
+          "description": "0x交易所平台 源码",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "kyber",
+          "description": "kyber交易所 源码",
+          "children": []
+        }
+      ],
+      "title": "Exchange 交易所"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Compound",
+          "description": "Compound 借贷机制 源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-10T04:19:47Z",
+            "owner": "compound-finance",
+            "repo": "compound-protocol",
+            "stars": 2040
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wrapped BTC",
+          "description": "BTC锚定资产 源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-25T16:24:43Z",
+            "owner": "WrappedBTC",
+            "repo": "bitcoin-token-smart-contracts",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Defi 去中心化金融"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nostr",
+          "description": "Nostr协议目录",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-27T20:23:51Z",
+            "owner": "nostr-protocol",
+            "repo": "nostr",
+            "stars": 11925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nostr-rs-relay",
+          "description": "Nostr Relay Rust实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-22T14:55:19Z",
+            "owner": "scsibug",
+            "repo": "nostr-rs-relay",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "status-im",
+          "description": "status.im项目开源代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T17:26:38Z",
+            "owner": "status-im",
+            "repo": "status-network-token",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "IM 通信"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DAO",
+          "description": "DAO提案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-03-27T14:22:01Z",
+            "owner": "blockchainsllc",
+            "repo": "DAO",
+            "stars": 1587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aragon",
+          "description": "公司业务 源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-03-08T16:47:05Z",
+            "owner": "aragon",
+            "repo": "aragonOS",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dharma",
+          "description": "第三方增信 源码",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "slockit",
+          "description": "租借智能设备 源码",
+          "children": []
+        }
+      ],
+      "title": "Social 社会"
+    },
+    {
+      "description": "以太坊相关详细开发资源收集",
+      "items": [],
+      "title": "Awesome Ethereum"
+    },
+    {
+      "description": "Fabric联盟链相关详细开发资源收集",
+      "items": [],
+      "title": "Awesome Fabric"
+    },
+    {
+      "description": "BTC：1JnC15WwDVcC3QbQRUY6ChqRLucLpTGaJN\nETH：0x81847890eecdecb20ee145824eaa1aec079a712c",
+      "items": [],
+      "title": "DONATE 赞助"
+    },
+    {
+      "description": "To the extent possible under law, Chaozh has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:02:49.057Z",
+    "original_repository": "chaozh/awesome-blockchain-cn",
+    "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
+    "enhanced_repository": "enhansome/enhansome-blockchain-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome Blockchain with stars"
+  }
+}
