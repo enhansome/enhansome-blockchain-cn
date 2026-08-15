@@ -100,7 +100,7 @@
             "last_commit": "2025-01-09T11:04:40Z",
             "owner": "ZJUBCA",
             "repo": "roadmap",
-            "stars": 1388
+            "stars": 1389
           }
         }
       ],
@@ -122,10 +122,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T19:53:17Z",
+            "last_commit": "2026-08-14T23:24:16Z",
             "owner": "ipfs",
             "repo": "kubo",
-            "stars": 17099
+            "stars": 17100
           }
         },
         {
@@ -181,7 +181,7 @@
             "last_commit": "2026-08-13T10:45:21Z",
             "owner": "FISCO-BCOS",
             "repo": "FISCO-BCOS",
-            "stars": 2595
+            "stars": 2596
           }
         },
         {
@@ -282,10 +282,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-13T21:02:04Z",
+            "last_commit": "2026-08-14T17:12:41Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27214
+            "stars": 27217
           }
         },
         {
@@ -299,7 +299,7 @@
             "last_commit": "2024-04-22T08:47:19Z",
             "owner": "ConsenSys-archive",
             "repo": "truffle",
-            "stars": 13918
+            "stars": 13917
           }
         },
         {
@@ -313,7 +313,7 @@
             "last_commit": "2026-07-28T14:08:41Z",
             "owner": "LFDT-web3j",
             "repo": "web3j",
-            "stars": 5391
+            "stars": 5392
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2025-06-27T20:23:51Z",
             "owner": "nostr-protocol",
             "repo": "nostr",
-            "stars": 11925
+            "stars": 11929
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2026-05-22T14:55:19Z",
             "owner": "scsibug",
             "repo": "nostr-rs-relay",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:02:49.057Z",
+    "last_updated": "2026-08-15T01:53:28.834Z",
     "original_repository": "chaozh/awesome-blockchain-cn",
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
     "enhanced_repository": "enhansome/enhansome-blockchain-cn",
