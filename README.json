@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-16T23:17:39Z",
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10808
+                "stars": 10812
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2025-01-09T11:04:40Z",
                 "owner": "ZJUBCA",
                 "repo": "roadmap",
-                "stars": 1389
+                "stars": 1391
               }
             }
           ],
@@ -124,10 +124,10 @@
                 "archived": false,
                 "id": 21233191,
                 "language": "Go",
-                "last_commit": "2026-08-18T11:11:44Z",
+                "last_commit": "2026-08-21T00:18:29Z",
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17105
+                "stars": 17104
               }
             },
             {
@@ -172,7 +172,7 @@
                 "last_commit": "2026-08-09T22:06:09Z",
                 "owner": "neo-project",
                 "repo": "neo",
-                "stars": 3536
+                "stars": 3535
               }
             },
             {
@@ -184,7 +184,7 @@
                 "archived": false,
                 "id": 113932055,
                 "language": "C++",
-                "last_commit": "2026-08-20T01:18:45Z",
+                "last_commit": "2026-08-21T01:20:21Z",
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2597
@@ -296,10 +296,10 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-19T14:24:45Z",
+                "last_commit": "2026-08-20T20:51:53Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27221
+                "stars": 27223
               }
             },
             {
@@ -314,7 +314,7 @@
                 "last_commit": "2024-04-22T08:47:19Z",
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13915
+                "stars": 13916
               }
             },
             {
@@ -329,7 +329,7 @@
                 "last_commit": "2026-08-18T13:44:09Z",
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5392
+                "stars": 5391
               }
             },
             {
@@ -574,7 +574,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21517
+                "stars": 21518
               }
             },
             {
@@ -659,10 +659,10 @@
                 "archived": false,
                 "id": 127246132,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T22:43:25Z",
+                "last_commit": "2026-08-20T17:08:23Z",
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5432
+                "stars": 5431
               }
             },
             {
@@ -766,7 +766,7 @@
                 "last_commit": "2024-06-10T04:19:47Z",
                 "owner": "compound-finance",
                 "repo": "compound-protocol",
-                "stars": 2038
+                "stars": 2037
               }
             },
             {
@@ -803,7 +803,7 @@
                 "last_commit": "2025-06-27T20:23:51Z",
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 11958
+                "stars": 11971
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2026-05-22T14:55:19Z",
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
-                "stars": 714
+                "stars": 713
               }
             },
             {
@@ -883,7 +883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:55:16.692Z",
+    "last_updated": "2026-08-21T02:01:30.022Z",
     "original_repository": "chaozh/awesome-blockchain-cn",
     "original_repository_id": 84703916,
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
