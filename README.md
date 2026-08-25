@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 499,634 | 🐛 106 | 📅 2026-08-21 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 499,634 | 🐛 106 | 📅 2026-08-21*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 499,690 | 🐛 106 | 📅 2026-08-21 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 499,690 | 🐛 106 | 📅 2026-08-21*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -112,23 +112,23 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,109 | 🐛 873 | 🌐 Go | 📅 2026-08-25 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,055 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,110 | 🐛 873 | 🌐 Go | 📅 2026-08-25 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,055 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 * [NEO](https://github.com/neo-project/neo) ⭐ 3,535 | 🐛 258 | 🌐 C# | 📅 2026-08-24 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,597 | 🐛 400 | 🌐 C++ | 📅 2026-08-24 来自金链盟的聚焦金融行业的区块链底层平台
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,597 | 🐛 401 | 🌐 C++ | 📅 2026-08-24 来自金链盟的聚焦金融行业的区块链底层平台
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,301 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
-* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,218 | 🐛 74 | 🌐 Rust | 📅 2026-08-19 公链 Nervos CKB 的底层源码
+* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,218 | 🐛 75 | 🌐 Rust | 📅 2026-08-19 公链 Nervos CKB 的底层源码
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) ⭐ 471 | 🐛 17 | 🌐 Java | 📅 2022-03-28 以太坊增加Presto的SQL访问能力
 * [Metaverse](https://github.com/mvs-org/metaverse) ⭐ 305 | 🐛 61 | 🌐 C++ | 📅 2023-02-25 原界链源码
 * [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2017-07-04 最原始的比特币代码
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,231 | 🐛 373 | 🌐 Solidity | 📅 2026-08-25 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,232 | 🐛 373 | 🌐 Solidity | 📅 2026-08-25 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
-* [Web3j](https://github.com/web3j/web3j) ⭐ 5,391 | 🐛 148 | 🌐 Java | 📅 2026-08-18 以太坊官方Web3轻量级java SDK
+* [Web3j](https://github.com/web3j/web3j) ⭐ 5,392 | 🐛 148 | 🌐 Java | 📅 2026-08-18 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,770 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
 * [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) ⭐ 1,003 | 🐛 42 | 🌐 JavaScript | 📅 2025-12-11 检测Solidity代码覆盖
 * [Porosity](https://github.com/comaeio/porosity) ⭐ 932 | 🐛 23 | 🌐 C++ | 📅 2019-01-10 反编译以太坊智能合约工具
@@ -237,7 +237,7 @@
 
 ### IM 通信
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 11,996 | 🐛 65 | 📅 2025-06-27 Nostr协议目录
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 11,997 | 🐛 65 | 📅 2025-06-27 Nostr协议目录
 * [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 714 | 🐛 65 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
 * [status-im](https://github.com/status-im/status-network-token) ⭐ 149 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 status.im项目开源代码
 
@@ -257,7 +257,7 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,955 | 🐛 514 | 🌐 Python | 📅 2026-08-25 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,955 | 🐛 508 | 🌐 Python | 📅 2026-08-25 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
