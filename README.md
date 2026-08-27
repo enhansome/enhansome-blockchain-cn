@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,344 | 🐛 105 | 📅 2026-08-21 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,344 | 🐛 105 | 📅 2026-08-21*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -112,11 +112,11 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,114 | 🐛 872 | 🌐 Go | 📅 2026-08-27 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,056 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,115 | 🐛 872 | 🌐 Go | 📅 2026-08-27 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,056 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 * [NEO](https://github.com/neo-project/neo) ⭐ 3,534 | 🐛 258 | 🌐 C# | 📅 2026-08-27 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,599 | 🐛 400 | 🌐 C++ | 📅 2026-08-27 来自金链盟的聚焦金融行业的区块链底层平台
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,599 | 🐛 399 | 🌐 C++ | 📅 2026-08-27 来自金链盟的聚焦金融行业的区块链底层平台
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,301 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
 * [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,219 | 🐛 78 | 🌐 Rust | 📅 2026-08-27 公链 Nervos CKB 的底层源码
@@ -257,15 +257,15 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,971 | 🐛 511 | 🌐 Python | 📅 2026-08-26 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,970 | 🐛 512 | 🌐 Python | 📅 2026-08-26 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
-## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) ⭐ 18,954 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-29
+## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) ⭐ 18,955 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-29
 
 以太坊相关详细开发资源收集
 
-## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) ⭐ 18,954 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-29
+## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) ⭐ 18,955 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-29
 
 Fabric联盟链相关详细开发资源收集
 

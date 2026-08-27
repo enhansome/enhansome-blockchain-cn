@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-27T02:35:20Z",
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17114
+                "stars": 17115
               }
             },
             {
@@ -206,7 +206,7 @@
                 "archived": false,
                 "id": 113932055,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:02:48Z",
+                "last_commit": "2026-08-27T11:04:09Z",
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2599
@@ -958,7 +958,7 @@
                 "last_commit": "2026-08-26T11:18:24Z",
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13971
+                "stars": 13970
               }
             }
           ],
@@ -983,7 +983,7 @@
             "last_commit": "2024-02-29T07:33:18Z",
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18954
+            "stars": 18955
           },
           "title": "Awesome Ethereum"
         },
@@ -998,7 +998,7 @@
             "last_commit": "2024-02-29T07:33:18Z",
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18954
+            "stars": 18955
           },
           "title": "Awesome Fabric"
         }
@@ -1007,9 +1007,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:59:00.037Z",
-    "original_repository": "chaozh/awesome-blockchain-cn",
-    "original_repository_id": 84703916,
+    "last_updated": "2026-08-27T11:29:29.932Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 84703916,
+      "language": "JavaScript",
+      "last_commit": "2024-02-29T07:33:18Z",
+      "owner": "chaozh",
+      "repo": "awesome-blockchain-cn",
+      "stars": 18955
+    },
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
     "enhanced_repository": "enhansome/enhansome-blockchain-cn",
     "enhanced_repository_description": null,
