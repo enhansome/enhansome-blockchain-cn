@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-16T23:17:39Z",
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10818
+                "stars": 10819
               }
             },
             {
@@ -146,10 +146,10 @@
                 "archived": false,
                 "id": 21233191,
                 "language": "Go",
-                "last_commit": "2026-08-25T00:09:22Z",
+                "last_commit": "2026-08-27T02:35:20Z",
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17111
+                "stars": 17114
               }
             },
             {
@@ -191,10 +191,10 @@
                 "archived": false,
                 "id": 36613036,
                 "language": "C#",
-                "last_commit": "2026-08-25T17:50:00Z",
+                "last_commit": "2026-08-27T08:40:13Z",
                 "owner": "neo-project",
                 "repo": "neo",
-                "stars": 3535
+                "stars": 3534
               }
             },
             {
@@ -206,10 +206,10 @@
                 "archived": false,
                 "id": 113932055,
                 "language": "C++",
-                "last_commit": "2026-08-25T14:25:44Z",
+                "last_commit": "2026-08-27T08:02:48Z",
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
-                "stars": 2598
+                "stars": 2599
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2024-01-02T03:17:32Z",
                 "owner": "BytomDAO",
                 "repo": "bytom",
-                "stars": 1267
+                "stars": 1266
               }
             },
             {
@@ -251,7 +251,7 @@
                 "archived": false,
                 "id": 158225088,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:21:34Z",
+                "last_commit": "2026-08-27T05:24:11Z",
                 "owner": "nervosnetwork",
                 "repo": "ckb",
                 "stars": 1219
@@ -318,10 +318,10 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-25T18:17:57Z",
+                "last_commit": "2026-08-27T09:26:57Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27234
+                "stars": 27235
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2024-04-22T08:47:19Z",
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13916
+                "stars": 13915
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-08-18T13:44:09Z",
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5392
+                "stars": 5390
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25292
+                "stars": 25295
               }
             }
           ],
@@ -618,7 +618,7 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21517
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2020-07-20T13:59:24Z",
                 "owner": "ethereum",
                 "repo": "mist",
-                "stars": 7423
+                "stars": 7421
               }
             },
             {
@@ -703,10 +703,10 @@
                 "archived": false,
                 "id": 127246132,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:19:23Z",
+                "last_commit": "2026-08-27T08:58:30Z",
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5433
+                "stars": 5434
               }
             },
             {
@@ -869,7 +869,7 @@
                 "last_commit": "2025-06-27T20:23:51Z",
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12002
+                "stars": 12007
               }
             },
             {
@@ -955,10 +955,10 @@
                 "archived": false,
                 "id": 44971752,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:56:59Z",
+                "last_commit": "2026-08-26T11:18:24Z",
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13956
+                "stars": 13971
               }
             }
           ],
@@ -983,7 +983,7 @@
             "last_commit": "2024-02-29T07:33:18Z",
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18955
+            "stars": 18954
           },
           "title": "Awesome Ethereum"
         },
@@ -998,7 +998,7 @@
             "last_commit": "2024-02-29T07:33:18Z",
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18955
+            "stars": 18954
           },
           "title": "Awesome Fabric"
         }
@@ -1007,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:02:22.215Z",
+    "last_updated": "2026-08-27T09:59:00.037Z",
     "original_repository": "chaozh/awesome-blockchain-cn",
     "original_repository_id": 84703916,
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
