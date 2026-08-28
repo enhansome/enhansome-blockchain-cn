@@ -18,7 +18,8 @@
                 "owner": "WTFAcademy",
                 "repo": "WTF-Solidity-Internals",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
                 "stars": 1025
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
                 "stars": 1025
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "learn-chaincode",
                 "stars": 619
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "angrbrd",
                 "repo": "hyperledger-fabric-basics",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
                 "stars": 10819
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "ZJUBCA",
                 "repo": "roadmap",
                 "stars": 1394
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -146,11 +153,12 @@
                 "archived": false,
                 "id": 21233191,
                 "language": "Go",
-                "last_commit": "2026-08-27T02:35:20Z",
+                "last_commit": "2026-08-27T19:42:52Z",
                 "owner": "ipfs",
                 "repo": "kubo",
                 "stars": 17115
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -164,8 +172,9 @@
                 "last_commit": "2022-07-27T00:17:50Z",
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11172
-              }
+                "stars": 11171
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "Consensys",
                 "repo": "quorum",
                 "stars": 4765
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -191,11 +201,12 @@
                 "archived": false,
                 "id": 36613036,
                 "language": "C#",
-                "last_commit": "2026-08-27T08:40:13Z",
+                "last_commit": "2026-08-28T07:26:21Z",
                 "owner": "neo-project",
                 "repo": "neo",
                 "stars": 3534
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -206,11 +217,12 @@
                 "archived": false,
                 "id": 113932055,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:04:09Z",
+                "last_commit": "2026-08-28T06:18:49Z",
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2599
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "citahub",
                 "repo": "cita",
                 "stars": 1301
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "BytomDAO",
                 "repo": "bytom",
                 "stars": 1266
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "nervosnetwork",
                 "repo": "ckb",
                 "stars": 1219
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "xiaoyao1991",
                 "repo": "presto-ethereum",
                 "stars": 471
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "mvs-org",
                 "repo": "metaverse",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "fkysly",
                 "repo": "bitcoin0.1.0",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -318,11 +336,12 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-27T09:26:57Z",
+                "last_commit": "2026-08-28T09:07:54Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27235
-              }
+                "stars": 27234
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
                 "stars": 13915
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -351,8 +371,9 @@
                 "last_commit": "2026-08-18T13:44:09Z",
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5390
-              }
+                "stars": 5391
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -366,8 +387,9 @@
                 "last_commit": "2024-07-30T14:41:38Z",
                 "owner": "embarklabs",
                 "repo": "embark",
-                "stars": 3770
-              }
+                "stars": 3769
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "sc-forks",
                 "repo": "solidity-coverage",
                 "stars": 1003
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "msuiche",
                 "repo": "porosity",
                 "stars": 932
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "Consensys",
                 "repo": "cakeshop",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "hyperledger-archives",
                 "repo": "caliper",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "hyperledger",
                 "repo": "composer",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "BANKEX",
                 "repo": "web3swift",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -478,8 +506,9 @@
                 "last_commit": "2025-06-12T22:39:48Z",
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1931
-              }
+                "stars": 1932
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -493,8 +522,9 @@
                 "last_commit": "2024-08-01T16:50:35Z",
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1872
-              }
+                "stars": 1871
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "enzymefinance",
                 "repo": "oyente",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -524,7 +555,8 @@
                 "owner": "ewasm",
                 "repo": "design",
                 "stars": 1021
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -539,7 +571,8 @@
                 "owner": "ivicanikolicsg",
                 "repo": "MAIAN",
                 "stars": 567
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -554,7 +587,8 @@
                 "owner": "ooibc88",
                 "repo": "blockbench",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -569,7 +603,8 @@
                 "owner": "anmavrid",
                 "repo": "smart-contracts",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -596,8 +631,9 @@
                 "last_commit": "2024-12-26T18:18:32Z",
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25295
-              }
+                "stars": 25294
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -618,8 +654,9 @@
                 "last_commit": "2026-05-13T14:04:25Z",
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21517
-              }
+                "stars": 21518
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -634,7 +671,8 @@
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
                 "stars": 5402
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -649,7 +687,8 @@
                 "owner": "Scanate",
                 "repo": "EthList",
                 "stars": 3875
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -664,7 +703,8 @@
                 "owner": "EverexIO",
                 "repo": "Ethplorer",
                 "stars": 850
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -692,7 +732,8 @@
                 "owner": "ethereum",
                 "repo": "mist",
                 "stars": 7421
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -703,11 +744,12 @@
                 "archived": false,
                 "id": 127246132,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:58:30Z",
+                "last_commit": "2026-08-28T11:13:10Z",
                 "owner": "reown-com",
                 "repo": "appkit",
                 "stars": 5434
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -722,7 +764,8 @@
                 "owner": "MyEtherWallet",
                 "repo": "etherwallet",
                 "stars": 2324
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -737,7 +780,8 @@
                 "owner": "ether-camp",
                 "repo": "ethereum-harmony",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -759,7 +803,8 @@
                 "owner": "etherdelta",
                 "repo": "smart_contract",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -774,7 +819,8 @@
                 "owner": "dmarket",
                 "repo": "dmarket-smartcontract",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -789,7 +835,8 @@
                 "owner": "forkdelta",
                 "repo": "smart_contract",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -811,7 +858,8 @@
                 "owner": "compound-finance",
                 "repo": "compound-protocol",
                 "stars": 2037
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -826,7 +874,8 @@
                 "owner": "WrappedBTC",
                 "repo": "bitcoin-token-smart-contracts",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -848,7 +897,8 @@
                 "owner": "EdgelessCasino",
                 "repo": "Smart-Contracts",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -870,7 +920,8 @@
                 "owner": "nostr-protocol",
                 "repo": "nostr",
                 "stars": 12007
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -885,7 +936,8 @@
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
                 "stars": 714
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -900,7 +952,8 @@
                 "owner": "status-im",
                 "repo": "status-network-token",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -922,7 +975,8 @@
                 "owner": "blockchainsllc",
                 "repo": "DAO",
                 "stars": 1587
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             },
             {
               "node_type": "item",
@@ -937,7 +991,8 @@
                 "owner": "aragon",
                 "repo": "aragonOS",
                 "stars": 679
-              }
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -955,11 +1010,12 @@
                 "archived": false,
                 "id": 44971752,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:18:24Z",
+                "last_commit": "2026-08-27T19:58:17Z",
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13970
-              }
+                "stars": 13972
+              },
+              "first_seen": "2026-08-28T11:31:22.383Z"
             }
           ],
           "description": null,
@@ -983,9 +1039,10 @@
             "last_commit": "2024-02-29T07:33:18Z",
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18955
+            "stars": 18956
           },
-          "title": "Awesome Ethereum"
+          "title": "Awesome Ethereum",
+          "first_seen": "2026-08-28T11:31:22.383Z"
         },
         {
           "children": [],
@@ -998,16 +1055,17 @@
             "last_commit": "2024-02-29T07:33:18Z",
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18955
+            "stars": 18956
           },
-          "title": "Awesome Fabric"
+          "title": "Awesome Fabric",
+          "first_seen": "2026-08-28T11:31:22.383Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:29.932Z",
+    "last_updated": "2026-08-28T11:31:22.383Z",
     "original_repository_info": {
       "archived": false,
       "id": 84703916,
@@ -1015,7 +1073,7 @@
       "last_commit": "2024-02-29T07:33:18Z",
       "owner": "chaozh",
       "repo": "awesome-blockchain-cn",
-      "stars": 18955
+      "stars": 18956
     },
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
     "enhanced_repository": "enhansome/enhansome-blockchain-cn",
