@@ -140,7 +140,7 @@
                 "open_issues": 5,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10820,
+                "stars": 10821,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -530,7 +530,7 @@
                 "open_issues": 374,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27234,
+                "stars": 27233,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -988,7 +988,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25297,
+                "stars": 25298,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1053,10 +1053,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-03-09T17:40:55Z",
-                "open_issues": 37,
+                "open_issues": 34,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5402,
+                "stars": 5401,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:35.608Z",
+    "last_updated": "2026-08-29T07:10:37.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",

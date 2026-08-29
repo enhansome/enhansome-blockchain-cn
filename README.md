@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,889 | 🐛 105 | 📅 2026-08-21 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,889 | 🐛 105 | 📅 2026-08-21*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,918 | 🐛 105 | 📅 2026-08-21 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 500,918 | 🐛 105 | 📅 2026-08-21*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -104,7 +104,7 @@
 
 ### Roadmaps 路线图
 
-* [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,820 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,821 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
 * [Roadmap of learning blockchain](https://github.com/Blockchain-zju/blockchainer-roadmap) ⭐ 1,394 | 🐛 0 | 📅 2025-01-09
 * [Blockchain Roadmap](https://roadmap.sh/blockchain)
 
@@ -126,7 +126,7 @@
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,234 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,233 | 🐛 374 | 🌐 Solidity | 📅 2026-08-28 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
 * [Web3j](https://github.com/web3j/web3j) ⭐ 5,390 | 🐛 149 | 🌐 Java | 📅 2026-08-18 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,769 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
@@ -153,7 +153,7 @@
 
 ### BitCoin 比特币
 
-* [精通比特币](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,297 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN) ⭐ 1,784 | 🐛 5 | 📅 2024-04-14
+* [精通比特币](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,298 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN) ⭐ 1,784 | 🐛 5 | 📅 2024-04-14
 * [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 * [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
