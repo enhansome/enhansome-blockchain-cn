@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "介绍Solidity智能合约中的存储布局，内存布局，以及ABI编码规则，帮助大家理解Solidity的内部规则。",
+                "homepage": null,
                 "id": 707222702,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2024-03-08T20:53:57Z",
+                "open_issues": 1,
                 "owner": "WTFAcademy",
                 "repo": "WTF-Solidity-Internals",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. The repository will be kept available in read-only mode.",
+                "homepage": null,
                 "id": 51540625,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-28T03:30:12Z",
+                "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1025
+                "stars": 1025,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. The repository will be kept available in read-only mode.",
+                "homepage": null,
                 "id": 51540625,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-28T03:30:12Z",
+                "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1025
+                "stars": 1025,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to write chaincode.  (For the latest information, see http://hyperledger-fabric.readthedocs.io/en/latest/chaincode.html)",
+                "homepage": null,
                 "id": 57235138,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T12:23:29Z",
+                "open_issues": 12,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "learn-chaincode",
-                "stars": 619
+                "stars": 619,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Comprehensive Getting Started Guide For Application Development On Hyperledger Fabric",
+                "homepage": null,
                 "id": 71588973,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-10T04:09:40Z",
+                "open_issues": 8,
                 "owner": "angrbrd",
                 "repo": "hyperledger-fabric-basics",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -106,12 +131,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
+                "homepage": "https://officercia.medium.com/",
                 "id": 378536025,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-16T23:17:39Z",
+                "open_issues": 5,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10819
+                "stars": 10820,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "blockchain",
+                  "curated-list",
+                  "defi",
+                  "ethereum",
+                  "knowledge-base",
+                  "roadmap",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -122,12 +163,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）",
+                "homepage": "https://zjubca.github.io/roadmap",
                 "id": 130544654,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-01-09T11:04:40Z",
+                "open_issues": 0,
                 "owner": "ZJUBCA",
                 "repo": "roadmap",
-                "stars": 1394
+                "stars": 1394,
+                "topics": [
+                  "base",
+                  "bitcoin",
+                  "blockchain",
+                  "ethereum",
+                  "roadmap",
+                  "rust",
+                  "solana",
+                  "ton",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -151,12 +207,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
+                "homepage": "https://docs.ipfs.tech/how-to/command-line-quick-start/",
                 "id": 21233191,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T19:42:52Z",
+                "open_issues": 874,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17115
+                "stars": 17115,
+                "topics": [
+                  "ipfs"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -167,12 +230,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source smart contract platform ",
+                "homepage": "https://developers.eos.io/manuals/eos",
                 "id": 87335980,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-07-27T00:17:50Z",
+                "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11171
+                "stars": 11172,
+                "topics": [
+                  "eosio"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -183,12 +253,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A permissioned implementation of Ethereum supporting data privacy",
+                "homepage": "https://www.goquorum.com/",
                 "id": 73670742,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-05T02:27:13Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4765
+                "stars": 4765,
+                "topics": [
+                  "blockchain",
+                  "consensus",
+                  "eea",
+                  "enterprise-ethereum",
+                  "enterprise-ethereum-client",
+                  "ethereum",
+                  "go",
+                  "goquorum",
+                  "ledger",
+                  "privacy",
+                  "protocols-team-goquorum",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -199,12 +287,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NEO Smart Economy",
+                "homepage": null,
                 "id": 36613036,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:26:21Z",
+                "open_issues": 262,
                 "owner": "neo-project",
                 "repo": "neo",
-                "stars": 3534
+                "stars": 3534,
+                "topics": [
+                  "blockchain",
+                  "neo"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -215,12 +311,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications. ",
+                "homepage": "https://fisco-bcos-doc.readthedocs.io",
                 "id": 113932055,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:18:49Z",
+                "open_issues": 402,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
-                "stars": 2599
+                "stars": 2599,
+                "topics": [
+                  "bcos",
+                  "blockchain",
+                  "consensus",
+                  "consortium",
+                  "crud",
+                  "crypto",
+                  "evm",
+                  "fintech",
+                  "fisco",
+                  "fisco-bcos",
+                  "p2p",
+                  "pbft",
+                  "precompiled",
+                  "raft",
+                  "rpc",
+                  "security",
+                  "solidity",
+                  "synchronization",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -231,12 +352,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high performance blockchain kernel for enterprise users.",
+                "homepage": "https://www.citahub.com/",
                 "id": 97869781,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-10T16:57:30Z",
+                "open_issues": 11,
                 "owner": "citahub",
                 "repo": "cita",
-                "stars": 1301
+                "stars": 1301,
+                "topics": [
+                  "blockchain",
+                  "consensus",
+                  "consortium",
+                  "enterprise-users",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -247,12 +379,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official Go implementation of the Bytom protocol ",
+                "homepage": "https://bytomdao.org",
                 "id": 97181001,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-02T03:17:32Z",
+                "open_issues": 26,
                 "owner": "BytomDAO",
                 "repo": "bytom",
-                "stars": 1266
+                "stars": 1266,
+                "topics": [
+                  "ai",
+                  "blockchain",
+                  "contract",
+                  "decentralized",
+                  "genai",
+                  "golang",
+                  "nft"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -263,12 +408,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.",
+                "homepage": "https://www.nervos.org",
                 "id": 158225088,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T05:24:11Z",
+                "open_issues": 78,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
-                "stars": 1219
+                "stars": 1219,
+                "topics": [
+                  "blockchain",
+                  "ckb",
+                  "nervos",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -279,12 +434,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Presto Ethereum Connector -- SQL on Ethereum",
+                "homepage": null,
                 "id": 97879056,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-28T22:17:47Z",
+                "open_issues": 17,
                 "owner": "xiaoyao1991",
                 "repo": "presto-ethereum",
-                "stars": 471
+                "stars": 471,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "ethereum-blockchain",
+                  "presto",
+                  "prestodb",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -295,12 +462,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Metaverse individual chain service ETP coin and immutable data space for Hyperspace.",
+                "homepage": "https://mvs.org",
                 "id": 72335855,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-02-25T10:48:25Z",
+                "open_issues": 61,
                 "owner": "mvs-org",
                 "repo": "metaverse",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "avatar",
+                  "blockchain",
+                  "digital-assets",
+                  "digital-identity",
+                  "metaverse",
+                  "mvs"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -311,12 +490,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bitcoin0.1.0 source",
+                "homepage": null,
                 "id": 96239365,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-07-04T17:24:16Z",
+                "open_issues": 0,
                 "owner": "fkysly",
                 "repo": "bitcoin0.1.0",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "bitcoin",
+                  "original-source"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -334,12 +521,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+                "homepage": "https://openzeppelin.com/contracts",
                 "id": 64700934,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:07:54Z",
+                "open_issues": 374,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27234
+                "stars": 27234,
+                "topics": [
+                  "ethereum",
+                  "evm",
+                  "security",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -350,12 +548,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.",
+                "homepage": "https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat?utm_source=github&utm_medium=referral&utm_campaign=2023_Sep_truffle-sunset-2023_announcement_",
                 "id": 38267641,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-22T08:47:19Z",
+                "open_issues": 527,
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13915
+                "stars": 13915,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "framework",
+                  "hacktoberfest",
+                  "javascript",
+                  "smart-contract-tools",
+                  "smart-contracts",
+                  "solidity",
+                  "truffle"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -366,12 +579,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Java and Android library for integration with Ethereum clients",
+                "homepage": "https://www.web3labs.com/web3j-sdk",
                 "id": 67328052,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T13:44:09Z",
+                "open_issues": 149,
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5391
+                "stars": 5390,
+                "topics": [
+                  "android",
+                  "blockchain",
+                  "ether",
+                  "ethereum",
+                  "java",
+                  "reactivex",
+                  "rxjava",
+                  "smart-contract-tools",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -382,12 +611,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms",
+                "homepage": "https://framework.embarklabs.io/",
                 "id": 36172821,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-30T14:41:38Z",
+                "open_issues": 134,
                 "owner": "embarklabs",
                 "repo": "embark",
-                "stars": 3769
+                "stars": 3769,
+                "topics": [
+                  "blockchain",
+                  "dapp",
+                  "decentralized",
+                  "ethereum",
+                  "framework",
+                  "ipfs",
+                  "serverless",
+                  "smart-contracts",
+                  "swarm",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -398,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code coverage for Solidity smart-contracts ",
+                "homepage": null,
                 "id": 89956848,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-11T19:32:00Z",
+                "open_issues": 42,
                 "owner": "sc-forks",
                 "repo": "solidity-coverage",
-                "stars": 1003
+                "stars": 1003,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -414,12 +664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "*UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts",
+                "homepage": "https://www.comae.io",
                 "id": 83450357,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2019-01-10T04:48:46Z",
+                "open_issues": 23,
                 "owner": "msuiche",
                 "repo": "porosity",
-                "stars": 932
+                "stars": 932,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -430,12 +685,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An integrated development environment and SDK for Ethereum-like ledgers",
+                "homepage": "https://www.goquorum.com",
                 "id": 76374271,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-26T23:22:43Z",
+                "open_issues": 25,
                 "owner": "Consensys",
                 "repo": "cakeshop",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "blockchain",
+                  "editor",
+                  "ethereum",
+                  "ide",
+                  "ledger",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -446,12 +713,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A blockchain benchmark framework to measure performance of multiple blockchain solutions",
+                "homepage": null,
                 "id": 100549068,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-16T06:46:59Z",
+                "open_issues": 5,
                 "owner": "hyperledger-archives",
                 "repo": "caliper",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -462,12 +734,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":warning: :warning: :warning: Hyperledger Composer has been deprecated :warning: :warning: :warning: ",
+                "homepage": "https://wiki.hyperledger.org/display/composer",
                 "id": 246110454,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-22T18:40:27Z",
+                "open_issues": 0,
                 "owner": "hyperledger",
                 "repo": "composer",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -478,12 +755,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions on Ethereum network.",
+                "homepage": "https://bankex.github.io/web3swift/",
                 "id": 113247425,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-27T08:30:35Z",
+                "open_issues": 32,
                 "owner": "BANKEX",
                 "repo": "web3swift",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "bankex",
+                  "cryptocurrency",
+                  "cryptoswift",
+                  "ethereum",
+                  "ios",
+                  "json-rpc",
+                  "smart-contracts",
+                  "swift",
+                  "transaction",
+                  "wallet",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -501,12 +795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ library for zkSNARKs",
+                "homepage": null,
                 "id": 20418463,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-12T22:39:48Z",
+                "open_issues": 130,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1932
+                "stars": 1932,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -517,12 +816,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolbox for zkSNARKs on Ethereum",
+                "homepage": "https://zokrates.github.io",
                 "id": 107952203,
                 "language": "Rust",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-08-01T16:50:35Z",
+                "open_issues": 115,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1871
+                "stars": 1871,
+                "topics": [
+                  "ethereum",
+                  "language",
+                  "snark",
+                  "verifiable-computation",
+                  "zero-knowledge",
+                  "zksnarks"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -533,12 +844,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " An Analysis Tool for Smart Contracts ",
+                "homepage": null,
                 "id": 85322085,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-19T05:35:00Z",
+                "open_issues": 85,
                 "owner": "enzymefinance",
                 "repo": "oyente",
-                "stars": 1338
+                "stars": 1338,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "security-analyzers",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -549,12 +870,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Ewasm Design Overview and Specification",
+                "homepage": null,
                 "id": 53178225,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-08T17:40:20Z",
+                "open_issues": 74,
                 "owner": "ewasm",
                 "repo": "design",
-                "stars": 1021
+                "stars": 1021,
+                "topics": [
+                  "eth1",
+                  "ethereum",
+                  "ewasm",
+                  "specification",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -565,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAIAN: automatic tool for finding trace vulnerabilities in Ethereum smart contracts",
+                "homepage": null,
                 "id": 124853558,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-22T12:57:33Z",
+                "open_issues": 35,
                 "owner": "ivicanikolicsg",
                 "repo": "MAIAN",
-                "stars": 567
+                "stars": 567,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -581,12 +918,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLOCKBENCH: A Framework for Analyzing Private Blockchains. Blockbench contains workloads for measuring the data processing performance, and workloads for understanding the performance of different layers of Blockchain systems. ",
+                "homepage": "https://www.comp.nus.edu.sg/~dbsystem/fabricsharp/#/blockbench",
                 "id": 83500830,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-21T12:30:30Z",
+                "open_issues": 46,
                 "owner": "ooibc88",
                 "repo": "blockbench",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "benchmarking",
+                  "blockchain",
+                  "branching",
+                  "distributed-databases",
+                  "private-blockchain"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -597,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://cps-vo.org/group/smartcontracts",
                 "id": 104296277,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-03T18:19:17Z",
+                "open_issues": 1,
                 "owner": "anmavrid",
                 "repo": "smart-contracts",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -626,12 +979,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+                "homepage": "https://aantonop.com/books",
                 "id": 12044132,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-26T18:18:32Z",
+                "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25294
+                "stars": 25297,
+                "topics": [
+                  "bitcoin",
+                  "bitcoin-api",
+                  "blockchain",
+                  "oreilly",
+                  "oreilly-books"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -649,12 +1013,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+                "homepage": "https://masteringethereum.xyz/",
                 "id": 65392364,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-13T14:04:25Z",
+                "open_issues": 2,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21518
+                "stars": 21518,
+                "topics": [
+                  "blockchain",
+                  "book",
+                  "dapp",
+                  "devp2p",
+                  "embark",
+                  "ethereum",
+                  "oreilly",
+                  "smart-contracts",
+                  "solidity",
+                  "token",
+                  "truffle-framework",
+                  "web3js"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -665,12 +1047,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A guide to available tools and platforms for developing on Ethereum.",
+                "homepage": null,
                 "id": 136638948,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-09T17:40:55Z",
+                "open_issues": 37,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5402
+                "stars": 5402,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -681,12 +1068,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Comprehensive Ethereum Reading List",
+                "homepage": null,
                 "id": 88447006,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-04T23:10:43Z",
+                "open_issues": 5,
                 "owner": "Scanate",
                 "repo": "EthList",
-                "stars": 3875
+                "stars": 3875,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralization",
+                  "decentralized",
+                  "ethereum",
+                  "ethereum-client",
+                  "ethereum-contract",
+                  "ethereum-dapp",
+                  "ethereum-token",
+                  "ethereumjs",
+                  "reading-list",
+                  "smartcontracts"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -697,12 +1103,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Viewer of Ethereum tokens and transactions based on ERC20 standard. ",
+                "homepage": "https://ethplorer.io",
                 "id": 63941082,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-17T11:34:27Z",
+                "open_issues": 16,
                 "owner": "EverexIO",
                 "repo": "Ethplorer",
-                "stars": 850
+                "stars": 850,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "ethereum-contract",
+                  "ethereum-explorer",
+                  "ethereum-token",
+                  "tokens"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -726,12 +1144,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.",
+                "homepage": "http://ethereum.org",
                 "id": 37201011,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2020-07-20T13:59:24Z",
+                "open_issues": 784,
                 "owner": "ethereum",
                 "repo": "mist",
-                "stars": 7421
+                "stars": 7421,
+                "topics": [
+                  "blockchain",
+                  "browser",
+                  "electron",
+                  "ethereum",
+                  "geth",
+                  "meteor",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -742,12 +1173,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The full stack toolkit to build onchain app UX",
+                "homepage": "https://reown.com/appkit",
                 "id": 127246132,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:13:10Z",
+                "open_issues": 119,
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5434
+                "stars": 5434,
+                "topics": [
+                  "dapps",
+                  "ethereum",
+                  "integration",
+                  "plugin",
+                  "prod",
+                  "react",
+                  "team-appkit",
+                  "wallet",
+                  "walletconnect",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -758,12 +1205,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": "https://vintage.myetherwallet.com",
                 "id": 40522844,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-14T17:14:43Z",
+                "open_issues": 162,
                 "owner": "MyEtherWallet",
                 "repo": "etherwallet",
-                "stars": 2324
+                "stars": 2324,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -774,12 +1226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DEPRECATED! Ethereum Independent Peer",
+                "homepage": null,
                 "id": 63047064,
                 "language": "TSQL",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-15T14:28:04Z",
+                "open_issues": 44,
                 "owner": "ether-camp",
                 "repo": "ethereum-harmony",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -797,12 +1254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EtherDelta smart contract",
+                "homepage": null,
                 "id": 100621956,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-21T16:31:57Z",
+                "open_issues": 8,
                 "owner": "etherdelta",
                 "repo": "smart_contract",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -813,12 +1275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 98024648,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-12-14T18:05:16Z",
+                "open_issues": 1,
                 "owner": "dmarket",
                 "repo": "dmarket-smartcontract",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -829,12 +1296,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 123068042,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2018-06-18T10:27:13Z",
+                "open_issues": 19,
                 "owner": "forkdelta",
                 "repo": "smart_contract",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -852,12 +1324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Compound On-Chain Protocol",
+                "homepage": "https://compound.finance/developers",
                 "id": 200305501,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-10T04:19:47Z",
+                "open_issues": 87,
                 "owner": "compound-finance",
                 "repo": "compound-protocol",
-                "stars": 2037
+                "stars": 2037,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -868,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 157179317,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-25T16:24:43Z",
+                "open_issues": 46,
                 "owner": "WrappedBTC",
                 "repo": "bitcoin-token-smart-contracts",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -891,12 +1373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edgeless Token Smart Contracts",
+                "homepage": null,
                 "id": 76570601,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-01-22T17:02:00Z",
+                "open_issues": 1,
                 "owner": "EdgelessCasino",
                 "repo": "Smart-Contracts",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -914,12 +1401,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
+                "homepage": null,
                 "id": 311211647,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-27T20:23:51Z",
+                "open_issues": 65,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12007
+                "stars": 12007,
+                "topics": [
+                  "nostr"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -930,12 +1424,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/",
+                "homepage": null,
                 "id": 431715396,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-22T14:55:19Z",
+                "open_issues": 65,
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
-                "stars": 714
+                "stars": 714,
+                "topics": [
+                  "nostr",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -946,12 +1448,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart Contracts for the Status Contribution Period, along with Genesis and Network Tokens",
+                "homepage": "https://status.im",
                 "id": 89777936,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-06T17:26:38Z",
+                "open_issues": 40,
                 "owner": "status-im",
                 "repo": "status-network-token",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "ethereum",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -969,12 +1482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Standard DAO Framework, including Whitepaper",
+                "homepage": null,
                 "id": 52965176,
                 "language": "TeX",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-03-27T14:22:01Z",
+                "open_issues": 18,
                 "owner": "blockchainsllc",
                 "repo": "DAO",
-                "stars": 1587
+                "stars": 1587,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             },
@@ -985,12 +1503,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols",
+                "homepage": "https://hack.aragon.org/docs/aragonos-intro.html",
                 "id": 87797080,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-08T16:47:05Z",
+                "open_issues": 65,
                 "owner": "aragon",
                 "repo": "aragonOS",
-                "stars": 679
+                "stars": 679,
+                "topics": [
+                  "aragon",
+                  "aragon-app",
+                  "ethereum",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -1008,12 +1536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ethereum Improvement Proposal repository",
+                "homepage": "https://eips.ethereum.org/",
                 "id": 44971752,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:58:17Z",
+                "license": "CC0-1.0",
+                "last_commit": "2026-08-28T23:51:46Z",
+                "open_issues": 518,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13972
+                "stars": 13972,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
             }
@@ -1034,12 +1567,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
+            "homepage": null,
             "id": 84703916,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-29T07:33:18Z",
+            "open_issues": 16,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18956
+            "stars": 18956,
+            "topics": []
           },
           "title": "Awesome Ethereum",
           "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1050,12 +1588,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
+            "homepage": null,
             "id": 84703916,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-29T07:33:18Z",
+            "open_issues": 16,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18956
+            "stars": 18956,
+            "topics": []
           },
           "title": "Awesome Fabric",
           "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1065,15 +1608,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:31:22.383Z",
+    "last_updated": "2026-08-29T04:11:35.608Z",
     "original_repository_info": {
       "archived": false,
+      "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
+      "homepage": null,
       "id": 84703916,
       "language": "JavaScript",
+      "license": "Apache-2.0",
       "last_commit": "2024-02-29T07:33:18Z",
+      "open_issues": 16,
       "owner": "chaozh",
       "repo": "awesome-blockchain-cn",
-      "stars": 18956
+      "stars": 18956,
+      "topics": []
     },
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
     "enhanced_repository": "enhansome/enhansome-blockchain-cn",
