@@ -212,11 +212,11 @@
                 "id": 21233191,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T21:39:44Z",
-                "open_issues": 879,
+                "last_commit": "2026-09-03T03:41:37Z",
+                "open_issues": 878,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17123,
+                "stars": 17122,
                 "topics": [
                   "ipfs"
                 ]
@@ -293,7 +293,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-31T08:44:58Z",
-                "open_issues": 264,
+                "open_issues": 265,
                 "owner": "neo-project",
                 "repo": "neo",
                 "stars": 3535,
@@ -316,11 +316,11 @@
                 "id": 113932055,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T02:14:22Z",
-                "open_issues": 403,
+                "last_commit": "2026-09-02T11:55:36Z",
+                "open_issues": 407,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
-                "stars": 2601,
+                "stars": 2602,
                 "topics": [
                   "bcos",
                   "blockchain",
@@ -413,8 +413,8 @@
                 "id": 158225088,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-27T05:24:11Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-02T12:12:36Z",
+                "open_issues": 80,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
                 "stars": 1219,
@@ -526,11 +526,11 @@
                 "id": 64700934,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-09-01T19:45:18Z",
-                "open_issues": 377,
+                "last_commit": "2026-09-02T14:14:57Z",
+                "open_issues": 373,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27235,
+                "stars": 27232,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -588,7 +588,7 @@
                 "open_issues": 149,
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5391,
+                "stars": 5394,
                 "topics": [
                   "android",
                   "blockchain",
@@ -649,7 +649,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-12-11T19:32:00Z",
-                "open_issues": 42,
+                "open_issues": 40,
                 "owner": "sc-forks",
                 "repo": "solidity-coverage",
                 "stars": 1003,
@@ -954,7 +954,7 @@
                 "open_issues": 1,
                 "owner": "anmavrid",
                 "repo": "smart-contracts",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -988,7 +988,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25304,
+                "stars": 25305,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1022,7 +1022,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21521,
+                "stars": 21523,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1178,8 +1178,8 @@
                 "id": 127246132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T21:20:17Z",
-                "open_issues": 124,
+                "last_commit": "2026-09-02T19:48:52Z",
+                "open_issues": 126,
                 "owner": "reown-com",
                 "repo": "appkit",
                 "stars": 5436,
@@ -1214,7 +1214,7 @@
                 "open_issues": 162,
                 "owner": "MyEtherWallet",
                 "repo": "etherwallet",
-                "stars": 2324,
+                "stars": 2323,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1333,7 +1333,7 @@
                 "open_issues": 87,
                 "owner": "compound-finance",
                 "repo": "compound-protocol",
-                "stars": 2037,
+                "stars": 2036,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12015,
+                "stars": 12017,
                 "topics": [
                   "nostr"
                 ]
@@ -1433,7 +1433,7 @@
                 "open_issues": 65,
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
-                "stars": 714,
+                "stars": 716,
                 "topics": [
                   "nostr",
                   "rust"
@@ -1541,8 +1541,8 @@
                 "id": 44971752,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-02T04:29:17Z",
-                "open_issues": 504,
+                "last_commit": "2026-09-02T11:38:15Z",
+                "open_issues": 509,
                 "owner": "ethereum",
                 "repo": "EIPs",
                 "stars": 13976,
@@ -1576,7 +1576,7 @@
             "open_issues": 16,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18954,
+            "stars": 18955,
             "topics": []
           },
           "title": "Awesome Ethereum",
@@ -1597,7 +1597,7 @@
             "open_issues": 16,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18954,
+            "stars": 18955,
             "topics": []
           },
           "title": "Awesome Fabric",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:45:10.008Z",
+    "last_updated": "2026-09-03T04:40:52.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
@@ -1620,7 +1620,7 @@
       "open_issues": 16,
       "owner": "chaozh",
       "repo": "awesome-blockchain-cn",
-      "stars": 18954,
+      "stars": 18955,
       "topics": []
     },
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
