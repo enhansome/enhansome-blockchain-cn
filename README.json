@@ -49,7 +49,7 @@
                 "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1024,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -70,7 +70,7 @@
                 "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1024,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -213,7 +213,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T18:04:07Z",
-                "open_issues": 871,
+                "open_issues": 870,
                 "owner": "ipfs",
                 "repo": "kubo",
                 "stars": 17124,
@@ -292,7 +292,7 @@
                 "id": 36613036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T08:44:58Z",
+                "last_commit": "2026-09-05T14:47:05Z",
                 "open_issues": 264,
                 "owner": "neo-project",
                 "repo": "neo",
@@ -417,7 +417,7 @@
                 "open_issues": 80,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
-                "stars": 1219,
+                "stars": 1220,
                 "topics": [
                   "blockchain",
                   "ckb",
@@ -530,7 +530,7 @@
                 "open_issues": 367,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27231,
+                "stars": 27230,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -557,7 +557,7 @@
                 "open_issues": 527,
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13914,
+                "stars": 13913,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -988,7 +988,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25305,
+                "stars": 25304,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12020,
+                "stars": 12021,
                 "topics": [
                   "nostr"
                 ]
@@ -1542,10 +1542,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T15:24:46Z",
-                "open_issues": 504,
+                "open_issues": 505,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13970,
+                "stars": 13971,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:39:11.551Z",
+    "last_updated": "2026-09-06T04:49:10.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",

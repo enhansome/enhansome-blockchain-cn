@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,073 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,073 | 🐛 106 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,377 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 503,377 | 🐛 106 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -82,8 +82,8 @@
 
 ### Fabric 联盟链
 
-* [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) ⭐ 1,024 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 官方Chaincode案例教程第一部分 *(English)*
-* [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) ⭐ 1,024 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 官方Chaincode案例教程第二部分 *(English)*
+* [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) ⭐ 1,023 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 官方Chaincode案例教程第一部分 *(English)*
+* [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) ⭐ 1,023 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 官方Chaincode案例教程第二部分 *(English)*
 * [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) ⭐ 619 | 🐛 12 | 🌐 Go | 📅 2021-08-30 Fabric Chaincode入门 *(English)*
 * [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics) ⭐ 90 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-10  使用Docker Toolbox来搭建Fabric的开发环境 *(English)*
 * [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
@@ -112,21 +112,21 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,124 | 🐛 871 | 🌐 Go | 📅 2026-09-04 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,058 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,124 | 🐛 870 | 🌐 Go | 📅 2026-09-04 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
-* [NEO](https://github.com/neo-project/neo) ⭐ 3,534 | 🐛 264 | 🌐 C# | 📅 2026-08-31 NEO链源码
+* [NEO](https://github.com/neo-project/neo) ⭐ 3,534 | 🐛 264 | 🌐 C# | 📅 2026-09-05 NEO链源码
 * [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,602 | 🐛 410 | 🌐 C++ | 📅 2026-09-04 来自金链盟的聚焦金融行业的区块链底层平台
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,301 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
-* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,219 | 🐛 80 | 🌐 Rust | 📅 2026-09-04 公链 Nervos CKB 的底层源码
+* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,220 | 🐛 80 | 🌐 Rust | 📅 2026-09-04 公链 Nervos CKB 的底层源码
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) ⭐ 471 | 🐛 17 | 🌐 Java | 📅 2022-03-28 以太坊增加Presto的SQL访问能力
 * [Metaverse](https://github.com/mvs-org/metaverse) ⭐ 305 | 🐛 61 | 🌐 C++ | 📅 2023-02-25 原界链源码
 * [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2017-07-04 最原始的比特币代码
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,231 | 🐛 367 | 🌐 Solidity | 📅 2026-09-04 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,230 | 🐛 367 | 🌐 Solidity | 📅 2026-09-04 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
 * [Web3j](https://github.com/web3j/web3j) ⭐ 5,394 | 🐛 149 | 🌐 Java | 📅 2026-08-18 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,768 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
@@ -153,7 +153,7 @@
 
 ### BitCoin 比特币
 
-* [精通比特币](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,305 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN) ⭐ 1,786 | 🐛 5 | 📅 2024-04-14
+* [精通比特币](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,304 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN) ⭐ 1,786 | 🐛 5 | 📅 2024-04-14
 * [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 * [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
@@ -237,7 +237,7 @@
 
 ### IM 通信
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,020 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,021 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
 * [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 716 | 🐛 65 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
 * [status-im](https://github.com/status-im/status-network-token) ⭐ 149 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 status.im项目开源代码
 
@@ -257,7 +257,7 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,970 | 🐛 504 | 🌐 Python | 📅 2026-09-04 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,971 | 🐛 505 | 🌐 Python | 📅 2026-09-04 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
@@ -283,4 +283,4 @@ To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
