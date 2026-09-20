@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 507,589 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 507,589 | 🐛 106 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 507,924 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 507,924 | 🐛 106 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -112,21 +112,21 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,139 | 🐛 871 | 🌐 Go | 📅 2026-09-16 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,058 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,138 | 🐛 871 | 🌐 Go | 📅 2026-09-16 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
-* [NEO](https://github.com/neo-project/neo) ⭐ 3,534 | 🐛 262 | 🌐 C# | 📅 2026-09-18 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,606 | 🐛 420 | 🌐 C++ | 📅 2026-09-18 来自金链盟的聚焦金融行业的区块链底层平台
+* [NEO](https://github.com/neo-project/neo) ⭐ 3,535 | 🐛 263 | 🌐 C# | 📅 2026-09-18 NEO链源码
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,606 | 🐛 422 | 🌐 C++ | 📅 2026-09-18 来自金链盟的聚焦金融行业的区块链底层平台
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,302 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
-* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,219 | 🐛 83 | 🌐 Rust | 📅 2026-09-19 公链 Nervos CKB 的底层源码
+* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,219 | 🐛 82 | 🌐 Rust | 📅 2026-09-19 公链 Nervos CKB 的底层源码
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) ⭐ 471 | 🐛 17 | 🌐 Java | 📅 2022-03-28 以太坊增加Presto的SQL访问能力
 * [Metaverse](https://github.com/mvs-org/metaverse) ⭐ 305 | 🐛 61 | 🌐 C++ | 📅 2023-02-25 原界链源码
 * [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2017-07-04 最原始的比特币代码
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,242 | 🐛 363 | 🌐 Solidity | 📅 2026-09-18 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,244 | 🐛 363 | 🌐 Solidity | 📅 2026-09-18 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
 * [Web3j](https://github.com/web3j/web3j) ⭐ 5,403 | 🐛 152 | 🌐 Java | 📅 2026-08-18 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,765 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
@@ -142,7 +142,7 @@
 ### Research 最新研究
 
 * [libsnark](https://github.com/scipr-lab/libsnark) ⭐ 1,931 | 🐛 130 | 🌐 C++ | 📅 2025-06-12 zkSNARKS C++库
-* [Zokrates](https://github.com/JacobEberhardt/ZoKrates) ⭐ 1,870 | 🐛 115 | 🌐 Rust | 📅 2024-08-01 以太坊使用zkSNARKS工具包(实验用)
+* [Zokrates](https://github.com/JacobEberhardt/ZoKrates) ⭐ 1,870 | 🐛 114 | 🌐 Rust | 📅 2024-08-01 以太坊使用zkSNARKS工具包(实验用)
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived 以太坊智能合约分析工具
 * [eWASM](https://github.com/ewasm/design) ⚠️ Archived 让以太坊支持WebAssembly
 * [Maian](https://github.com/MAIAN-tool/MAIAN) ⭐ 566 | 🐛 35 | 🌐 Python | 📅 2023-10-22 以太坊智能合约漏洞查找工具
@@ -153,15 +153,15 @@
 
 ### BitCoin 比特币
 
-* [精通比特币](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,319 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN) ⭐ 1,786 | 🐛 5 | 📅 2024-04-14
+* [精通比特币](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,320 | 🐛 191 | 🌐 HTML | 📅 2024-12-26 精通比特币开发Oreilly开源书 [中文翻译版](https://github.com/tianmingyun/MasterBitcoin2CN) ⭐ 1,786 | 🐛 5 | 📅 2024-04-14
 * [blockchaindev.org](http://blockchaindev.org/) 区块链创业公司维优CTO的专栏
 * [区块链研习社](http://www.jianshu.com/u/30081a05cf95) 比特币源码解读
 
 ### Ethereum 以太坊
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,530 | 🐛 1 | 📅 2026-09-18 精通以太坊开发Oreilly开源书
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,530 | 🐛 2 | 📅 2026-09-19 精通以太坊开发Oreilly开源书
 * [以太坊开发者工具列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Chinese.md) ⚠️ Archived 以太坊开发资料收集
-* [EthList](https://github.com/Scanate/EthList) ⭐ 3,873 | 🐛 5 | 📅 2026-05-04 以太坊开发相关学习资料收集 *(English)*
+* [EthList](https://github.com/Scanate/EthList) ⭐ 3,872 | 🐛 5 | 📅 2026-05-04 以太坊开发相关学习资料收集 *(English)*
 * [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) ⭐ 850 | 🐛 16 | 📅 2023-10-17 Ethplorer接口文档
 * [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
 * [以太坊系列教程](http://gi1.cn/topics/category/solidity) solidity语言学习
@@ -195,7 +195,7 @@
 ### Wallet 钱包
 
 * [Mist Wallet](https://github.com/ethereum/mist/releases/latest) ⚠️ Archived 官方版轻量级钱包
-* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,441 | 🐛 133 | 🌐 TypeScript | 📅 2026-09-18 Web3 provider solution for all Wallets
+* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,442 | 🐛 134 | 🌐 TypeScript | 📅 2026-09-19 Web3 provider solution for all Wallets
 * [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet) ⚠️ Archived
 * [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest) ⭐ 254 | 🐛 44 | 🌐 TSQL | 📅 2019-11-15
 * [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
@@ -257,7 +257,7 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,978 | 🐛 521 | 🌐 Python | 📅 2026-09-18 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,978 | 🐛 523 | 🌐 Python | 📅 2026-09-18 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
@@ -283,4 +283,4 @@ To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

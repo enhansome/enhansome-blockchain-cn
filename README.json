@@ -216,7 +216,7 @@
                 "open_issues": 871,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17139,
+                "stars": 17138,
                 "topics": [
                   "ipfs"
                 ]
@@ -293,10 +293,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-18T12:16:10Z",
-                "open_issues": 262,
+                "open_issues": 263,
                 "owner": "neo-project",
                 "repo": "neo",
-                "stars": 3534,
+                "stars": 3535,
                 "topics": [
                   "blockchain",
                   "neo"
@@ -317,7 +317,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T08:53:28Z",
-                "open_issues": 420,
+                "open_issues": 422,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2606,
@@ -413,8 +413,8 @@
                 "id": 158225088,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:13:56Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-19T15:16:58Z",
+                "open_issues": 82,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
                 "stars": 1219,
@@ -530,7 +530,7 @@
                 "open_issues": 363,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27242,
+                "stars": 27244,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -822,7 +822,7 @@
                 "language": "Rust",
                 "license": "LGPL-3.0",
                 "last_commit": "2024-08-01T16:50:35Z",
-                "open_issues": 115,
+                "open_issues": 114,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
                 "stars": 1870,
@@ -988,7 +988,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25319,
+                "stars": 25320,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1018,8 +1018,8 @@
                 "id": 65392364,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-18T13:04:03Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-19T16:50:34Z",
+                "open_issues": 2,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
                 "stars": 21530,
@@ -1056,7 +1056,7 @@
                 "open_issues": 37,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5398,
+                "stars": 5397,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1077,7 +1077,7 @@
                 "open_issues": 5,
                 "owner": "Scanate",
                 "repo": "EthList",
-                "stars": 3873,
+                "stars": 3872,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -1153,7 +1153,7 @@
                 "open_issues": 784,
                 "owner": "ethereum",
                 "repo": "mist",
-                "stars": 7425,
+                "stars": 7424,
                 "topics": [
                   "blockchain",
                   "browser",
@@ -1178,11 +1178,11 @@
                 "id": 127246132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T20:06:48Z",
-                "open_issues": 133,
+                "last_commit": "2026-09-19T23:26:37Z",
+                "open_issues": 134,
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5441,
+                "stars": 5442,
                 "topics": [
                   "dapps",
                   "ethereum",
@@ -1542,7 +1542,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-18T10:41:32Z",
-                "open_issues": 521,
+                "open_issues": 523,
                 "owner": "ethereum",
                 "repo": "EIPs",
                 "stars": 13978,
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:45:01.946Z",
+    "last_updated": "2026-09-20T05:01:11.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
