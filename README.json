@@ -216,7 +216,7 @@
                 "open_issues": 874,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17145,
+                "stars": 17144,
                 "topics": [
                   "ipfs"
                 ]
@@ -239,7 +239,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11170,
+                "stars": 11169,
                 "topics": [
                   "eosio"
                 ]
@@ -316,8 +316,8 @@
                 "id": 113932055,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T02:06:12Z",
-                "open_issues": 433,
+                "last_commit": "2026-09-30T02:48:09Z",
+                "open_issues": 431,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2609,
@@ -413,7 +413,7 @@
                 "id": 158225088,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-28T11:15:04Z",
+                "last_commit": "2026-09-29T21:31:12Z",
                 "open_issues": 80,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
@@ -526,11 +526,11 @@
                 "id": 64700934,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-09-28T15:39:26Z",
+                "last_commit": "2026-09-29T13:39:58Z",
                 "open_issues": 355,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27256,
+                "stars": 27257,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -557,7 +557,7 @@
                 "open_issues": 527,
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13905,
+                "stars": 13906,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -588,7 +588,7 @@
                 "open_issues": 156,
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5402,
+                "stars": 5405,
                 "topics": [
                   "android",
                   "blockchain",
@@ -853,7 +853,7 @@
                 "open_issues": 85,
                 "owner": "enzymefinance",
                 "repo": "oyente",
-                "stars": 1338,
+                "stars": 1337,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21532,
+                "stars": 21533,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1178,11 +1178,11 @@
                 "id": 127246132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T19:57:37Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-30T01:59:19Z",
+                "open_issues": 129,
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5445,
+                "stars": 5446,
                 "topics": [
                   "dapps",
                   "ethereum",
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12058,
+                "stars": 12060,
                 "topics": [
                   "nostr"
                 ]
@@ -1433,7 +1433,7 @@
                 "open_issues": 65,
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
-                "stars": 716,
+                "stars": 718,
                 "topics": [
                   "nostr",
                   "rust"
@@ -1541,11 +1541,11 @@
                 "id": 44971752,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-28T21:07:58Z",
-                "open_issues": 527,
+                "last_commit": "2026-09-29T19:28:03Z",
+                "open_issues": 531,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13991,
+                "stars": 13993,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:51:59.605Z",
+    "last_updated": "2026-09-30T05:42:37.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
