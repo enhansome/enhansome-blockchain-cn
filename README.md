@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 513,805 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 513,805 | 🐛 106 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
