@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 513,805 | 🐛 106 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 513,805 | 🐛 106 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 514,268 | 🐛 107 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 514,268 | 🐛 107 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -115,18 +115,18 @@
 * [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,146 | 🐛 875 | 🌐 Go | 📅 2026-10-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,057 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
-* [NEO](https://github.com/neo-project/neo) ⭐ 3,536 | 🐛 258 | 🌐 C# | 📅 2026-10-01 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,607 | 🐛 438 | 🌐 C++ | 📅 2026-09-30 来自金链盟的聚焦金融行业的区块链底层平台
-* [CITA](https://github.com/cryptape/cita) ⭐ 1,301 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
+* [NEO](https://github.com/neo-project/neo) ⭐ 3,535 | 🐛 258 | 🌐 C# | 📅 2026-10-01 NEO链源码
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,607 | 🐛 439 | 🌐 C++ | 📅 2026-09-30 来自金链盟的聚焦金融行业的区块链底层平台
+* [CITA](https://github.com/cryptape/cita) ⭐ 1,302 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
-* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,217 | 🐛 80 | 🌐 Rust | 📅 2026-09-29 公链 Nervos CKB 的底层源码
+* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,218 | 🐛 80 | 🌐 Rust | 📅 2026-09-29 公链 Nervos CKB 的底层源码
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) ⭐ 471 | 🐛 17 | 🌐 Java | 📅 2022-03-28 以太坊增加Presto的SQL访问能力
 * [Metaverse](https://github.com/mvs-org/metaverse) ⭐ 305 | 🐛 61 | 🌐 C++ | 📅 2023-02-25 原界链源码
 * [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2017-07-04 最原始的比特币代码
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,266 | 🐛 358 | 🌐 Solidity | 📅 2026-10-01 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,265 | 🐛 358 | 🌐 Solidity | 📅 2026-10-01 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
 * [Web3j](https://github.com/web3j/web3j) ⭐ 5,403 | 🐛 154 | 🌐 Java | 📅 2026-10-02 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,766 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
@@ -159,7 +159,7 @@
 
 ### Ethereum 以太坊
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,535 | 🐛 1 | 📅 2026-09-22 精通以太坊开发Oreilly开源书
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,534 | 🐛 1 | 📅 2026-09-22 精通以太坊开发Oreilly开源书
 * [以太坊开发者工具列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Chinese.md) ⚠️ Archived 以太坊开发资料收集
 * [EthList](https://github.com/Scanate/EthList) ⭐ 3,871 | 🐛 5 | 📅 2026-05-04 以太坊开发相关学习资料收集 *(English)*
 * [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) ⭐ 850 | 🐛 16 | 📅 2023-10-17 Ethplorer接口文档
@@ -221,7 +221,7 @@
 
 ### Defi 去中心化金融
 
-* [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol) ⭐ 2,033 | 🐛 85 | 🌐 TypeScript | 📅 2024-06-10
+* [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol) ⭐ 2,033 | 🐛 86 | 🌐 TypeScript | 📅 2024-06-10
 * [Wrapped BTC](https://wbtc.network) BTC锚定资产 [源码](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25
 * [Uniswap](https://uniswap.org/) Uniswap [源码](https://github.com/Uniswap)
 * [Synthetix](https://www.synthetix.io/) Synthetix 衍生品[源码](https://github.com/synthetixio)
@@ -237,7 +237,7 @@
 
 ### IM 通信
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,067 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,071 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
 * [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 719 | 🐛 65 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
 * [status-im](https://github.com/status-im/status-network-token) ⭐ 148 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 status.im项目开源代码
 
@@ -257,15 +257,15 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,993 | 🐛 527 | 🌐 Python | 📅 2026-10-02 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 13,993 | 🐛 528 | 🌐 Python | 📅 2026-10-03 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
-## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) ⭐ 18,946 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
+## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) ⭐ 18,947 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
 
 以太坊相关详细开发资源收集
 
-## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) ⭐ 18,946 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
+## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) ⭐ 18,947 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
 
 Fabric联盟链相关详细开发资源收集
 
@@ -283,4 +283,4 @@ To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
