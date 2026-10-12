@@ -140,7 +140,7 @@
                 "open_issues": 12,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10852,
+                "stars": 10857,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -172,7 +172,7 @@
                 "open_issues": 0,
                 "owner": "ZJUBCA",
                 "repo": "roadmap",
-                "stars": 1392,
+                "stars": 1391,
                 "topics": [
                   "base",
                   "bitcoin",
@@ -292,8 +292,8 @@
                 "id": 36613036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-11T05:39:37Z",
-                "open_issues": 255,
+                "last_commit": "2026-10-12T03:23:38Z",
+                "open_issues": 254,
                 "owner": "neo-project",
                 "repo": "neo",
                 "stars": 3535,
@@ -316,8 +316,8 @@
                 "id": 113932055,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T06:30:06Z",
-                "open_issues": 458,
+                "last_commit": "2026-10-12T03:17:31Z",
+                "open_issues": 457,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2609,
@@ -588,7 +588,7 @@
                 "open_issues": 149,
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5405,
+                "stars": 5404,
                 "topics": [
                   "android",
                   "blockchain",
@@ -906,7 +906,7 @@
                 "open_issues": 35,
                 "owner": "ivicanikolicsg",
                 "repo": "MAIAN",
-                "stars": 565,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -988,7 +988,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25331,
+                "stars": 25330,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12083,
+                "stars": 12082,
                 "topics": [
                   "nostr"
                 ]
@@ -1541,8 +1541,8 @@
                 "id": 44971752,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-09T16:58:07Z",
-                "open_issues": 520,
+                "last_commit": "2026-10-12T03:15:26Z",
+                "open_issues": 522,
                 "owner": "ethereum",
                 "repo": "EIPs",
                 "stars": 13995,
@@ -1576,7 +1576,7 @@
             "open_issues": 18,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18945,
+            "stars": 18943,
             "topics": []
           },
           "title": "Awesome Ethereum",
@@ -1597,7 +1597,7 @@
             "open_issues": 18,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18945,
+            "stars": 18943,
             "topics": []
           },
           "title": "Awesome Fabric",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T05:59:46.851Z",
+    "last_updated": "2026-10-12T06:10:01.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
@@ -1620,7 +1620,7 @@
       "open_issues": 18,
       "owner": "chaozh",
       "repo": "awesome-blockchain-cn",
-      "stars": 18945,
+      "stars": 18943,
       "topics": []
     },
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
