@@ -216,7 +216,7 @@
                 "open_issues": 875,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17152,
+                "stars": 17153,
                 "topics": [
                   "ipfs"
                 ]
@@ -239,7 +239,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11166,
+                "stars": 11164,
                 "topics": [
                   "eosio"
                 ]
@@ -292,8 +292,8 @@
                 "id": 36613036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-12T03:23:38Z",
-                "open_issues": 254,
+                "last_commit": "2026-10-14T17:54:52Z",
+                "open_issues": 255,
                 "owner": "neo-project",
                 "repo": "neo",
                 "stars": 3535,
@@ -316,8 +316,8 @@
                 "id": 113932055,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T08:18:23Z",
-                "open_issues": 456,
+                "last_commit": "2026-10-14T09:02:20Z",
+                "open_issues": 458,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
                 "stars": 2608,
@@ -414,7 +414,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-10T10:08:51Z",
-                "open_issues": 84,
+                "open_issues": 88,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
                 "stars": 1217,
@@ -526,7 +526,7 @@
                 "id": 64700934,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:14:42Z",
+                "last_commit": "2026-10-14T22:19:09Z",
                 "open_issues": 360,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
@@ -825,7 +825,7 @@
                 "open_issues": 114,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1872,
+                "stars": 1873,
                 "topics": [
                   "ethereum",
                   "language",
@@ -988,7 +988,7 @@
                 "open_issues": 191,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25328,
+                "stars": 25327,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21532,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12081,
+                "stars": 12085,
                 "topics": [
                   "nostr"
                 ]
@@ -1433,7 +1433,7 @@
                 "open_issues": 65,
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "nostr",
                   "rust"
@@ -1541,8 +1541,8 @@
                 "id": 44971752,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-14T02:39:25Z",
-                "open_issues": 522,
+                "last_commit": "2026-10-15T02:43:14Z",
+                "open_issues": 521,
                 "owner": "ethereum",
                 "repo": "EIPs",
                 "stars": 14034,
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:02:53.080Z",
+    "last_updated": "2026-10-15T04:51:38.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
