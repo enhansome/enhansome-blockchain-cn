@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 519,575 | 🐛 105 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 519,575 | 🐛 105 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 520,080 | 🐛 105 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 520,080 | 🐛 105 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -104,7 +104,7 @@
 
 ### Roadmaps 路线图
 
-* [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,860 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-12
+* [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,861 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-12
 * [Roadmap of learning blockchain](https://github.com/Blockchain-zju/blockchainer-roadmap) ⭐ 1,391 | 🐛 0 | 📅 2025-01-09
 * [Blockchain Roadmap](https://roadmap.sh/blockchain)
 
@@ -112,11 +112,11 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,151 | 🐛 876 | 🌐 Go | 📅 2026-10-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,054 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,150 | 🐛 877 | 🌐 Go | 📅 2026-10-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
-* [NEO](https://github.com/neo-project/neo) ⭐ 3,535 | 🐛 255 | 🌐 C# | 📅 2026-10-16 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,609 | 🐛 460 | 🌐 C++ | 📅 2026-10-14 来自金链盟的聚焦金融行业的区块链底层平台
+* [NEO](https://github.com/neo-project/neo) ⭐ 3,536 | 🐛 254 | 🌐 C# | 📅 2026-10-17 NEO链源码
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,610 | 🐛 460 | 🌐 C++ | 📅 2026-10-17 来自金链盟的聚焦金融行业的区块链底层平台
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,302 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
 * [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,217 | 🐛 89 | 🌐 Rust | 📅 2026-10-10 公链 Nervos CKB 的底层源码
@@ -126,12 +126,12 @@
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,284 | 🐛 357 | 🌐 Solidity | 📅 2026-10-15 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,290 | 🐛 353 | 🌐 Solidity | 📅 2026-10-16 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
 * [Web3j](https://github.com/web3j/web3j) ⭐ 5,405 | 🐛 144 | 🌐 Java | 📅 2026-10-15 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,766 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
 * [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) ⭐ 1,001 | 🐛 40 | 🌐 JavaScript | 📅 2025-12-11 检测Solidity代码覆盖
-* [Porosity](https://github.com/comaeio/porosity) ⭐ 934 | 🐛 23 | 🌐 C++ | 📅 2019-01-10 反编译以太坊智能合约工具
+* [Porosity](https://github.com/comaeio/porosity) ⭐ 935 | 🐛 23 | 🌐 C++ | 📅 2019-01-10 反编译以太坊智能合约工具
 * [Cakeshop](https://github.com/jpmorganchase/cakeshop) ⚠️ Archived 来自JP Morgan的以太坊可视化管理工具
 * [Caliper](https://github.com/hyperledger-archives/caliper) ⚠️ Archived hyperledger区块链性能测试工具
 * [Composer](https://github.com/hyperledger/composer) ⚠️ Archived 官方可视化Fabric应用开发框架
@@ -159,7 +159,7 @@
 
 ### Ethereum 以太坊
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,536 | 🐛 1 | 📅 2026-10-12 精通以太坊开发Oreilly开源书
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,534 | 🐛 1 | 📅 2026-10-12 精通以太坊开发Oreilly开源书
 * [以太坊开发者工具列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Chinese.md) ⚠️ Archived 以太坊开发资料收集
 * [EthList](https://github.com/Scanate/EthList) ⭐ 3,873 | 🐛 5 | 📅 2026-05-04 以太坊开发相关学习资料收集 *(English)*
 * [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) ⭐ 850 | 🐛 16 | 📅 2023-10-17 Ethplorer接口文档
@@ -195,7 +195,7 @@
 ### Wallet 钱包
 
 * [Mist Wallet](https://github.com/ethereum/mist/releases/latest) ⚠️ Archived 官方版轻量级钱包
-* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,453 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-10 Web3 provider solution for all Wallets
+* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,453 | 🐛 135 | 🌐 TypeScript | 📅 2026-10-16 Web3 provider solution for all Wallets
 * [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet) ⚠️ Archived
 * [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest) ⭐ 254 | 🐛 44 | 🌐 TSQL | 📅 2019-11-15
 * [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
@@ -237,7 +237,7 @@
 
 ### IM 通信
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,084 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,089 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
 * [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 723 | 🐛 65 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
 * [status-im](https://github.com/status-im/status-network-token) ⭐ 148 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 status.im项目开源代码
 
@@ -257,15 +257,15 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 14,031 | 🐛 527 | 🌐 Python | 📅 2026-10-15 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 14,035 | 🐛 531 | 🌐 Python | 📅 2026-10-16 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
-## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) ⭐ 18,940 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
+## [Awesome Ethereum](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum) ⭐ 18,941 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
 
 以太坊相关详细开发资源收集
 
-## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) ⭐ 18,940 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
+## [Awesome Fabric](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric) ⭐ 18,941 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-29
 
 Fabric联盟链相关详细开发资源收集
 
@@ -283,4 +283,4 @@ To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
