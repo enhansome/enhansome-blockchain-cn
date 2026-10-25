@@ -137,10 +137,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-20T15:42:14Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10869,
+                "stars": 10871,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -216,7 +216,7 @@
                 "open_issues": 879,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17155,
+                "stars": 17158,
                 "topics": [
                   "ipfs"
                 ]
@@ -239,7 +239,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11164,
+                "stars": 11165,
                 "topics": [
                   "eosio"
                 ]
@@ -262,7 +262,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-inc-archive",
                 "repo": "quorum",
-                "stars": 4762,
+                "stars": 4763,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -293,10 +293,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-24T00:46:46Z",
-                "open_issues": 253,
+                "open_issues": 254,
                 "owner": "neo-project",
                 "repo": "neo",
-                "stars": 3537,
+                "stars": 3538,
                 "topics": [
                   "blockchain",
                   "neo"
@@ -320,7 +320,7 @@
                 "open_issues": 457,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "bcos",
                   "blockchain",
@@ -530,7 +530,7 @@
                 "open_issues": 342,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27299,
+                "stars": 27302,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -557,7 +557,7 @@
                 "open_issues": 527,
                 "owner": "ConsenSys-archive",
                 "repo": "truffle",
-                "stars": 13903,
+                "stars": 13904,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -853,7 +853,7 @@
                 "open_issues": 85,
                 "owner": "enzymefinance",
                 "repo": "oyente",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -879,7 +879,7 @@
                 "open_issues": 74,
                 "owner": "ewasm",
                 "repo": "design",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": [
                   "eth1",
                   "ethereum",
@@ -988,7 +988,7 @@
                 "open_issues": 192,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25334,
+                "stars": 25335,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21536,
+                "stars": 21539,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1541,11 +1541,11 @@
                 "id": 44971752,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-24T02:52:11Z",
-                "open_issues": 534,
+                "last_commit": "2026-10-24T16:18:40Z",
+                "open_issues": 535,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 14041,
+                "stars": 14045,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1576,7 +1576,7 @@
             "open_issues": 19,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18940,
+            "stars": 18941,
             "topics": []
           },
           "title": "Awesome Ethereum",
@@ -1597,7 +1597,7 @@
             "open_issues": 19,
             "owner": "chaozh",
             "repo": "awesome-blockchain-cn",
-            "stars": 18940,
+            "stars": 18941,
             "topics": []
           },
           "title": "Awesome Fabric",
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:47:21.835Z",
+    "last_updated": "2026-10-25T04:55:25.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
@@ -1620,7 +1620,7 @@
       "open_issues": 19,
       "owner": "chaozh",
       "repo": "awesome-blockchain-cn",
-      "stars": 18940,
+      "stars": 18941,
       "topics": []
     },
     "original_repository_sha": "7bf73d8bca4697757d60fb4027b5032294856806",
