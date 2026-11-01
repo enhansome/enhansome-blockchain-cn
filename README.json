@@ -140,7 +140,7 @@
                 "open_issues": 10,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10881,
+                "stars": 10883,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -216,7 +216,7 @@
                 "open_issues": 881,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17163,
+                "stars": 17164,
                 "topics": [
                   "ipfs"
                 ]
@@ -292,8 +292,8 @@
                 "id": 36613036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-31T01:05:06Z",
-                "open_issues": 262,
+                "last_commit": "2026-10-31T21:28:48Z",
+                "open_issues": 260,
                 "owner": "neo-project",
                 "repo": "neo",
                 "stars": 3539,
@@ -417,7 +417,7 @@
                 "open_issues": 86,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
-                "stars": 1216,
+                "stars": 1215,
                 "topics": [
                   "blockchain",
                   "ckb",
@@ -526,11 +526,11 @@
                 "id": 64700934,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-10-31T00:52:41Z",
-                "open_issues": 343,
+                "last_commit": "2026-11-01T01:46:33Z",
+                "open_issues": 345,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27330,
+                "stars": 27334,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -988,7 +988,7 @@
                 "open_issues": 193,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25335,
+                "stars": 25334,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1022,7 +1022,7 @@
                 "open_issues": 0,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21538,
+                "stars": 21537,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1077,7 +1077,7 @@
                 "open_issues": 5,
                 "owner": "Scanate",
                 "repo": "EthList",
-                "stars": 3873,
+                "stars": 3872,
                 "topics": [
                   "bitcoin",
                   "blockchain",
@@ -1433,7 +1433,7 @@
                 "open_issues": 69,
                 "owner": "scsibug",
                 "repo": "nostr-rs-relay",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "nostr",
                   "rust"
@@ -1542,10 +1542,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-30T14:27:57Z",
-                "open_issues": 540,
+                "open_issues": 542,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 14056,
+                "stars": 14057,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T05:55:46.380Z",
+    "last_updated": "2026-11-01T06:24:26.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
