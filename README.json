@@ -140,7 +140,7 @@
                 "open_issues": 13,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10898,
+                "stars": 10899,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -216,7 +216,7 @@
                 "open_issues": 889,
                 "owner": "ipfs",
                 "repo": "kubo",
-                "stars": 17186,
+                "stars": 17184,
                 "topics": [
                   "ipfs"
                 ]
@@ -292,11 +292,11 @@
                 "id": 36613036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-13T20:25:42Z",
+                "last_commit": "2026-11-14T18:49:16Z",
                 "open_issues": 257,
                 "owner": "neo-project",
                 "repo": "neo",
-                "stars": 3540,
+                "stars": 3539,
                 "topics": [
                   "blockchain",
                   "neo"
@@ -320,7 +320,7 @@
                 "open_issues": 479,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
-                "stars": 2620,
+                "stars": 2619,
                 "topics": [
                   "bcos",
                   "blockchain",
@@ -530,7 +530,7 @@
                 "open_issues": 345,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27363,
+                "stars": 27361,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -804,7 +804,7 @@
                 "open_issues": 129,
                 "owner": "scipr-lab",
                 "repo": "libsnark",
-                "stars": 1931,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 37,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5397,
+                "stars": 5396,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1178,7 +1178,7 @@
                 "id": 127246132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T08:21:36Z",
+                "last_commit": "2026-11-14T13:17:48Z",
                 "open_issues": 145,
                 "owner": "reown-com",
                 "repo": "appkit",
@@ -1333,7 +1333,7 @@
                 "open_issues": 84,
                 "owner": "compound-finance",
                 "repo": "compound-protocol",
-                "stars": 2035,
+                "stars": 2034,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12138,
+                "stars": 12139,
                 "topics": [
                   "nostr"
                 ]
@@ -1491,7 +1491,7 @@
                 "open_issues": 17,
                 "owner": "blockchainsllc",
                 "repo": "DAO",
-                "stars": 1588,
+                "stars": 1587,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1545,7 +1545,7 @@
                 "open_issues": 573,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 14074,
+                "stars": 14075,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:42:51.422Z",
+    "last_updated": "2026-11-15T06:48:24.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",

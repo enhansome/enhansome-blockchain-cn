@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 536,557 | 🐛 104 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 536,557 | 🐛 104 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 537,076 | 🐛 104 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 537,076 | 🐛 104 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -104,7 +104,7 @@
 
 ### Roadmaps 路线图
 
-* [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,898 | 🐛 13 | 🌐 Python | 📅 2026-11-03
+* [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,899 | 🐛 13 | 🌐 Python | 📅 2026-11-03
 * [Roadmap of learning blockchain](https://github.com/Blockchain-zju/blockchainer-roadmap) ⭐ 1,390 | 🐛 0 | 📅 2025-01-09
 * [Blockchain Roadmap](https://roadmap.sh/blockchain)
 
@@ -112,11 +112,11 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,186 | 🐛 889 | 🌐 Go | 📅 2026-11-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,055 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,184 | 🐛 889 | 🌐 Go | 📅 2026-11-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,054 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
-* [NEO](https://github.com/neo-project/neo) ⭐ 3,540 | 🐛 257 | 🌐 C# | 📅 2026-11-13 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,620 | 🐛 479 | 🌐 C++ | 📅 2026-11-13 来自金链盟的聚焦金融行业的区块链底层平台
+* [NEO](https://github.com/neo-project/neo) ⭐ 3,539 | 🐛 257 | 🌐 C# | 📅 2026-11-14 NEO链源码
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,619 | 🐛 479 | 🌐 C++ | 📅 2026-11-13 来自金链盟的聚焦金融行业的区块链底层平台
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,303 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
 * [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,214 | 🐛 96 | 🌐 Rust | 📅 2026-11-12 公链 Nervos CKB 的底层源码
@@ -126,7 +126,7 @@
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,363 | 🐛 345 | 🌐 Solidity | 📅 2026-11-13 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,361 | 🐛 345 | 🌐 Solidity | 📅 2026-11-13 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
 * [Web3j](https://github.com/web3j/web3j) ⭐ 5,404 | 🐛 150 | 🌐 Java | 📅 2026-11-10 以太坊官方Web3轻量级java SDK
 * [Embark](https://github.com/embark-framework/embark) ⭐ 3,767 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
@@ -141,7 +141,7 @@
 
 ### Research 最新研究
 
-* [libsnark](https://github.com/scipr-lab/libsnark) ⭐ 1,931 | 🐛 129 | 🌐 C++ | 📅 2025-06-12 zkSNARKS C++库
+* [libsnark](https://github.com/scipr-lab/libsnark) ⭐ 1,930 | 🐛 129 | 🌐 C++ | 📅 2025-06-12 zkSNARKS C++库
 * [Zokrates](https://github.com/JacobEberhardt/ZoKrates) ⭐ 1,874 | 🐛 121 | 🌐 Rust | 📅 2024-08-01 以太坊使用zkSNARKS工具包(实验用)
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived 以太坊智能合约分析工具
 * [eWASM](https://github.com/ewasm/design) ⚠️ Archived 让以太坊支持WebAssembly
@@ -195,7 +195,7 @@
 ### Wallet 钱包
 
 * [Mist Wallet](https://github.com/ethereum/mist/releases/latest) ⚠️ Archived 官方版轻量级钱包
-* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,456 | 🐛 145 | 🌐 TypeScript | 📅 2026-11-11 Web3 provider solution for all Wallets
+* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,456 | 🐛 145 | 🌐 TypeScript | 📅 2026-11-14 Web3 provider solution for all Wallets
 * [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet) ⚠️ Archived
 * [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest) ⭐ 254 | 🐛 44 | 🌐 TSQL | 📅 2019-11-15
 * [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
@@ -221,7 +221,7 @@
 
 ### Defi 去中心化金融
 
-* [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol) ⭐ 2,035 | 🐛 84 | 🌐 TypeScript | 📅 2024-06-10
+* [Compound](https://compound.finance/governance/comp) Compound 借贷机制 [源码](https://github.com/compound-finance/compound-protocol) ⭐ 2,034 | 🐛 84 | 🌐 TypeScript | 📅 2024-06-10
 * [Wrapped BTC](https://wbtc.network) BTC锚定资产 [源码](https://github.com/WrappedBTC/bitcoin-token-smart-contracts) ⭐ 150 | 🐛 46 | 🌐 JavaScript | 📅 2024-01-25
 * [Uniswap](https://uniswap.org/) Uniswap [源码](https://github.com/Uniswap)
 * [Synthetix](https://www.synthetix.io/) Synthetix 衍生品[源码](https://github.com/synthetixio)
@@ -237,13 +237,13 @@
 
 ### IM 通信
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,138 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,139 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
 * [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 724 | 🐛 70 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
 * [status-im](https://github.com/status-im/status-network-token) ⭐ 148 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 status.im项目开源代码
 
 ### Social 社会
 
-* [DAO](https://github.com/slockit/DAO) ⭐ 1,588 | 🐛 17 | 🌐 TeX | 📅 2023-03-27 DAO提案
+* [DAO](https://github.com/slockit/DAO) ⭐ 1,587 | 🐛 17 | 🌐 TeX | 📅 2023-03-27 DAO提案
 * [Aragon](https://aragon.one/) 公司业务 [源码](https://github.com/aragon/aragon-core/tree/master/contracts) ⭐ 679 | 🐛 65 | 🌐 Solidity | 📅 2023-03-08
 * [Oraclize](http://docs.oraclize.it/#background) 第三方信息提供
 * [dharma](https://dharma.io/) 第三方增信 [源码](https://github.com/dharmaprotocol/dharma-cli)
@@ -257,7 +257,7 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 14,074 | 🐛 573 | 🌐 Python | 📅 2026-11-13 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 14,075 | 🐛 573 | 🌐 Python | 📅 2026-11-13 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
@@ -283,4 +283,4 @@ To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
