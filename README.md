@@ -2,7 +2,7 @@
 
 > 收集所有区块链(BlockChain)技术开发相关资料
 
-*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 539,171 | 🐛 104 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 539,171 | 🐛 104 | 📅 2026-09-02*
+*Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 539,655 | 🐛 103 | 📅 2026-09-02 before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md) ⭐ 539,655 | 🐛 103 | 📅 2026-09-02*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
@@ -84,7 +84,7 @@
 
 * [Marbles Project Tutorial: Part One](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part1.md) ⭐ 1,018 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 官方Chaincode案例教程第一部分 *(English)*
 * [Marbles Project Tutorial: Part Two](https://github.com/IBM-Blockchain/marbles/blob/master/docs/tutorial_part2.md) ⭐ 1,018 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 官方Chaincode案例教程第二部分 *(English)*
-* [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) ⭐ 618 | 🐛 12 | 🌐 Go | 📅 2021-08-30 Fabric Chaincode入门 *(English)*
+* [Learn Chaincode](https://github.com/IBM-Blockchain/learn-chaincode) ⭐ 619 | 🐛 12 | 🌐 Go | 📅 2021-08-30 Fabric Chaincode入门 *(English)*
 * [Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics) ⭐ 90 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-10  使用Docker Toolbox来搭建Fabric的开发环境 *(English)*
 * [Hyperledger Fabric V1.0– 开发者快速入门](https://zhuanlan.zhihu.com/p/25070745) 这个是基于baseos 0.2.2 的
 * [搭建运行Fabric V1.0-alpha版本](http://blog.csdn.net/kojhliang/article/details/66971404) 针对Fabric1.0版本的开发环境搭建指引
@@ -112,26 +112,26 @@
 
 ### Chain 区块链底层
 
-* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,195 | 🐛 890 | 🌐 Go | 📅 2026-11-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01
+* [IPFS](https://github.com/ipfs/go-ipfs) ⭐ 17,194 | 🐛 890 | 🌐 Go | 📅 2026-11-01 IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01
 * [EOS](https://github.com/EOSIO/eos) ⚠️ Archived EOS链源码
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 * [NEO](https://github.com/neo-project/neo) ⭐ 3,539 | 🐛 259 | 🌐 C# | 📅 2026-11-19 NEO链源码
-* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,619 | 🐛 475 | 🌐 C++ | 📅 2026-11-19 来自金链盟的聚焦金融行业的区块链底层平台
-* [CITA](https://github.com/cryptape/cita) ⭐ 1,303 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
+* [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) ⭐ 2,618 | 🐛 474 | 🌐 C++ | 📅 2026-11-19 来自金链盟的聚焦金融行业的区块链底层平台
+* [CITA](https://github.com/cryptape/cita) ⭐ 1,302 | 🐛 11 | 🌐 Rust | 📅 2022-12-10 cita联盟链的底层源码
 * [BYTOM](https://github.com/Bytom/bytom) ⚠️ Archived 比原链源码
-* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,214 | 🐛 83 | 🌐 Rust | 📅 2026-11-19 公链 Nervos CKB 的底层源码
+* [Nervos](https://github.com/nervosnetwork/ckb) ⭐ 1,213 | 🐛 85 | 🌐 Rust | 📅 2026-11-20 公链 Nervos CKB 的底层源码
 * [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) ⭐ 472 | 🐛 17 | 🌐 Java | 📅 2022-03-28 以太坊增加Presto的SQL访问能力
 * [Metaverse](https://github.com/mvs-org/metaverse) ⭐ 305 | 🐛 61 | 🌐 C++ | 📅 2023-02-25 原界链源码
 * [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) ⭐ 116 | 🐛 0 | 🌐 C++ | 📅 2017-07-04 最原始的比特币代码
 
 ### SDK 工具包
 
-* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,372 | 🐛 343 | 🌐 Solidity | 📅 2026-11-18 用于编写安全的以太坊合约框架
+* [Zeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) ⭐ 27,372 | 🐛 340 | 🌐 Solidity | 📅 2026-11-19 用于编写安全的以太坊合约框架
 * [Truffle](https://github.com/trufflesuite/truffle) ⚠️ Archived 以太坊Dapp开发脚手架
-* [Web3j](https://github.com/web3j/web3j) ⭐ 5,404 | 🐛 151 | 🌐 Java | 📅 2026-11-10 以太坊官方Web3轻量级java SDK
-* [Embark](https://github.com/embark-framework/embark) ⭐ 3,767 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
-* [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) ⭐ 1,002 | 🐛 40 | 🌐 JavaScript | 📅 2025-12-11 检测Solidity代码覆盖
-* [Porosity](https://github.com/comaeio/porosity) ⭐ 935 | 🐛 23 | 🌐 C++ | 📅 2019-01-10 反编译以太坊智能合约工具
+* [Web3j](https://github.com/web3j/web3j) ⭐ 5,401 | 🐛 152 | 🌐 Java | 📅 2026-11-10 以太坊官方Web3轻量级java SDK
+* [Embark](https://github.com/embark-framework/embark) ⭐ 3,765 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 以太坊Dapp开发框架，支持IPFS、Whisper及Orbit调用
+* [Solidity-Coverage](https://github.com/sc-forks/solidity-coverage) ⭐ 1,001 | 🐛 40 | 🌐 JavaScript | 📅 2025-12-11 检测Solidity代码覆盖
+* [Porosity](https://github.com/comaeio/porosity) ⭐ 934 | 🐛 23 | 🌐 C++ | 📅 2019-01-10 反编译以太坊智能合约工具
 * [Cakeshop](https://github.com/jpmorganchase/cakeshop) ⚠️ Archived 来自JP Morgan的以太坊可视化管理工具
 * [Caliper](https://github.com/hyperledger-archives/caliper) ⚠️ Archived hyperledger区块链性能测试工具
 * [Composer](https://github.com/hyperledger/composer) ⚠️ Archived 官方可视化Fabric应用开发框架
@@ -142,7 +142,7 @@
 ### Research 最新研究
 
 * [libsnark](https://github.com/scipr-lab/libsnark) ⭐ 1,930 | 🐛 129 | 🌐 C++ | 📅 2025-06-12 zkSNARKS C++库
-* [Zokrates](https://github.com/JacobEberhardt/ZoKrates) ⭐ 1,873 | 🐛 121 | 🌐 Rust | 📅 2024-08-01 以太坊使用zkSNARKS工具包(实验用)
+* [Zokrates](https://github.com/JacobEberhardt/ZoKrates) ⭐ 1,872 | 🐛 121 | 🌐 Rust | 📅 2024-08-01 以太坊使用zkSNARKS工具包(实验用)
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived 以太坊智能合约分析工具
 * [eWASM](https://github.com/ewasm/design) ⚠️ Archived 让以太坊支持WebAssembly
 * [Maian](https://github.com/MAIAN-tool/MAIAN) ⭐ 565 | 🐛 35 | 🌐 Python | 📅 2023-10-22 以太坊智能合约漏洞查找工具
@@ -159,9 +159,9 @@
 
 ### Ethereum 以太坊
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,546 | 🐛 1 | 📅 2026-10-12 精通以太坊开发Oreilly开源书
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,548 | 🐛 1 | 📅 2026-10-12 精通以太坊开发Oreilly开源书
 * [以太坊开发者工具列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README_Chinese.md) ⚠️ Archived 以太坊开发资料收集
-* [EthList](https://github.com/Scanate/EthList) ⭐ 3,874 | 🐛 5 | 📅 2026-05-04 以太坊开发相关学习资料收集 *(English)*
+* [EthList](https://github.com/Scanate/EthList) ⭐ 3,873 | 🐛 5 | 📅 2026-05-04 以太坊开发相关学习资料收集 *(English)*
 * [Ethplorer接口](https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API?from=etop) ⭐ 851 | 🐛 16 | 📅 2023-10-17 Ethplorer接口文档
 * [区块链技术博客](http://me.tryblockchain.org/) 关注以太坊
 * [以太坊系列教程](http://gi1.cn/topics/category/solidity) solidity语言学习
@@ -195,7 +195,7 @@
 ### Wallet 钱包
 
 * [Mist Wallet](https://github.com/ethereum/mist/releases/latest) ⚠️ Archived 官方版轻量级钱包
-* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,462 | 🐛 145 | 🌐 TypeScript | 📅 2026-11-16 Web3 provider solution for all Wallets
+* [web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,460 | 🐛 145 | 🌐 TypeScript | 📅 2026-11-19 Web3 provider solution for all Wallets
 * [My Ether Wallet](https://myetherwallet.com) 网页版以太坊钱包 [源码](https://github.com/kvhnuke/etherwallet) ⚠️ Archived
 * [Harmony Wallet](https://github.com/ether-camp/ethereum-harmony/releases/latest) ⭐ 254 | 🐛 44 | 🌐 TSQL | 📅 2019-11-15
 * [MetaMask](https://metamask.io/) Chrome Extension浏览器插件版
@@ -237,8 +237,8 @@
 
 ### IM 通信
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,148 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
-* [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 726 | 🐛 70 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,147 | 🐛 64 | 📅 2025-06-27 Nostr协议目录
+* [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) ⭐ 724 | 🐛 70 | 🌐 Rust | 📅 2026-05-22 Nostr Relay Rust实现
 * [status-im](https://github.com/status-im/status-network-token) ⭐ 148 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 status.im项目开源代码
 
 ### Social 社会
@@ -257,7 +257,7 @@
 
 ### Token 代币
 
-* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 14,074 | 🐛 575 | 🌐 Python | 📅 2026-11-18 以太坊的ICO代币标准
+* [ERC20](https://github.com/ethereum/EIPs/pull/610) ⭐ 14,073 | 🐛 575 | 🌐 Python | 📅 2026-11-18 以太坊的ICO代币标准
 * [Token Sale](http://vitalik.ca/general/2017/06/09/sales.html) 代币销售模型
 * [NFT](https://www.nft.org/) NFT代币
 
@@ -283,4 +283,4 @@ To the extent possible under law, [Chaozh](http://www.chaozh.com) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
