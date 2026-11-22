@@ -140,7 +140,7 @@
                 "open_issues": 17,
                 "owner": "OffcierCia",
                 "repo": "DeFi-Developer-Road-Map",
-                "stars": 10899,
+                "stars": 10900,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -292,7 +292,7 @@
                 "id": 36613036,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-20T13:34:31Z",
+                "last_commit": "2026-11-22T04:11:45Z",
                 "open_issues": 255,
                 "owner": "neo-project",
                 "repo": "neo",
@@ -320,7 +320,7 @@
                 "open_issues": 474,
                 "owner": "FISCO-BCOS",
                 "repo": "FISCO-BCOS",
-                "stars": 2619,
+                "stars": 2620,
                 "topics": [
                   "bcos",
                   "blockchain",
@@ -413,8 +413,8 @@
                 "id": 158225088,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-20T12:47:03Z",
-                "open_issues": 85,
+                "last_commit": "2026-11-22T02:54:17Z",
+                "open_issues": 83,
                 "owner": "nervosnetwork",
                 "repo": "ckb",
                 "stars": 1213,
@@ -527,10 +527,10 @@
                 "language": "Solidity",
                 "license": "MIT",
                 "last_commit": "2026-11-20T21:13:02Z",
-                "open_issues": 339,
+                "open_issues": 340,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27371,
+                "stars": 27363,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -673,7 +673,7 @@
                 "open_issues": 23,
                 "owner": "msuiche",
                 "repo": "porosity",
-                "stars": 934,
+                "stars": 935,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -988,7 +988,7 @@
                 "open_issues": 195,
                 "owner": "bitcoinbook",
                 "repo": "bitcoinbook",
-                "stars": 25363,
+                "stars": 25362,
                 "topics": [
                   "bitcoin",
                   "bitcoin-api",
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21549,
+                "stars": 21548,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1182,7 +1182,7 @@
                 "open_issues": 145,
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5460,
+                "stars": 5461,
                 "topics": [
                   "dapps",
                   "ethereum",
@@ -1333,7 +1333,7 @@
                 "open_issues": 84,
                 "owner": "compound-finance",
                 "repo": "compound-protocol",
-                "stars": 2034,
+                "stars": 2033,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1410,7 +1410,7 @@
                 "open_issues": 64,
                 "owner": "nostr-protocol",
                 "repo": "nostr",
-                "stars": 12148,
+                "stars": 12151,
                 "topics": [
                   "nostr"
                 ]
@@ -1541,11 +1541,11 @@
                 "id": 44971752,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-18T18:05:05Z",
-                "open_issues": 580,
+                "last_commit": "2026-11-21T09:01:17Z",
+                "open_issues": 582,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 14073,
+                "stars": 14068,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:31:22.383Z"
@@ -1608,7 +1608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:24:10.557Z",
+    "last_updated": "2026-11-22T07:05:26.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料",
